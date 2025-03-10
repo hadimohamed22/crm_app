@@ -8,3 +8,8 @@ A FastAPI-based CRM application with a reusable `core` module.
 - **Development Mode (with auto-reload)**:
   ```bash
   uvicorn src.main:app --reload --host 0.0.0.0 --port 8000
+  ```
+- **Production Mode**:
+  ```bash
+  python -m src.main
+  ```
