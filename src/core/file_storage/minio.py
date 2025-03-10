@@ -2,6 +2,7 @@ from .base import BaseFileStorage
 import uuid
 from minio import Minio
 import io
+from typing import Tuple, Dict, Optional
 
 class MinioStorage(BaseFileStorage):
     def __init__(self):
