@@ -6,6 +6,7 @@ from ..dependencies import create_access_token
 from ..core.orm import get_db
 from sqlalchemy.future import select
 import bcrypt
+from sqlalchemy.ext.asyncio import AsyncSession
 
 router = APIRouter(prefix="/auth", tags=["Authentication"])
 

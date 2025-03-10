@@ -4,6 +4,7 @@ from jose import JWTError, jwt
 from .core.config import config
 from .models.user import User
 from .core.orm import get_db
+from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy.future import select
 from datetime import datetime, timedelta
 
