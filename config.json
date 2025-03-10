@@ -1,0 +1,23 @@
+{
+    "database": {
+      "url": "sqlite+aiosqlite:///crm.db",
+      "echo": true
+    },
+    "auth": {
+      "secret_key": "your-secret-key-here"
+    },
+    "file_storage": {
+      "enabled": true,
+      "backend": "minio",
+      "minio": {
+        "endpoint": "localhost:9000",
+        "access_key": "minioadmin",
+        "secret_key": "miniopassword",
+        "secure": false,
+        "bucket": "crm-bucket"
+      }
+    },
+    "scheduler": {
+      "enabled": true
+    }
+  }
