@@ -4,6 +4,11 @@ A FastAPI-based CRM application with a reusable `core` module.
 ## Setup
 1. Install dependencies: `pip install -r requirements.txt`
 
+## Initiate Database
+  ```bash
+  python -m src.models.db_init
+  ```
+
 ## Running the App
 - **Development Mode (with auto-reload)**:
   ```bash
