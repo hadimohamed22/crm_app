@@ -1,6 +1,6 @@
 {
     "database": {
-      "url": "sqlite+aiosqlite:///crm.db",
+      "url": "postgresql+asyncpg://postgres:1234@localhost:5432/crm",
       "echo": false
     },
     "auth": {

@@ -38,4 +38,4 @@ class ProfileResponse(ProfileCreate):
     update_user: str
 
     class Config:
-        orm_mode = True
+        from_attributes = True

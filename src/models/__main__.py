@@ -1,15 +1,19 @@
 from fastapi import FastAPI
 from contextlib import asynccontextmanager
-from .core.config import config
-from .core.scheduler import start_scheduler
-from .api import auth, profile
+from ..core.config import config
+from ..core.scheduler import start_scheduler
+from ..api import auth, profile
+from ..models import init_db
 
 app_config = config.get("app", {})
+
+# Run synchronous initialization before async lifespan
+init_db()  # Call this outside async context
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     print("Starting CRM App")
-    start_scheduler()
+    start_scheduler()  # Async-compatible startup tasks go here
     yield
     print("Shutting down CRM App")
 
