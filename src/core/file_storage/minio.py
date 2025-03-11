@@ -2,7 +2,7 @@ from .base import BaseFileStorage
 import uuid
 from minio import Minio
 import io
-from typing import Tuple, Dict, Optional
+from typing import Dict, Tuple, Optional
 
 class MinioStorage(BaseFileStorage):
     def __init__(self):
@@ -15,7 +15,7 @@ class MinioStorage(BaseFileStorage):
             secure=minio_config.get("secure", False)
         )
         self.bucket = minio_config.get("bucket", "crm-bucket")
-        self.domain = minio_config.get("domain", f"http://{minio_config.get('endpoint')}/")
+        self.domain = minio_config.get("domain", f"http://{minio_config.get('endpoint', 'localhost:9000')}/")
         if not self.client.bucket_exists(self.bucket):
             self.client.make_bucket(self.bucket)
 

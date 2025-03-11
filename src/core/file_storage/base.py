@@ -8,8 +8,9 @@ class BaseFileStorage(ABC):
     def __init__(self):
         self.config = config.get("file_storage", {})
         self.enabled = self.config.get("enabled", True)
-        self.thumbnail_enabled = self.config.get("thumbnail", {}).get("enabled", True)
-        self.thumbnail_size = (200, 200)
+        thumb_config = self.config.get("thumbnail", {})
+        self.thumbnail_enabled = thumb_config.get("enabled", True)
+        self.thumbnail_size = tuple(thumb_config.get("size", [200, 200]))
 
     @abstractmethod
     def upload(self, file_name: str, content: bytes, content_type: str) -> Dict:

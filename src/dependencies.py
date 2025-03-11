@@ -9,8 +9,8 @@ from sqlalchemy.future import select
 from datetime import datetime, timedelta
 
 SECRET_KEY = config.get("auth", {}).get("secret_key", "your-secret-key")
-ALGORITHM = "HS256"
-ACCESS_TOKEN_EXPIRE_MINUTES = 30
+ALGORITHM = config.get("auth", {}).get("algorithm", "HS256")
+ACCESS_TOKEN_EXPIRE_MINUTES = config.get("auth", {}).get("access_token_expire_minutes", 30)
 
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="/auth/login")
 

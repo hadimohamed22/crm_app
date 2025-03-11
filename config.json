@@ -1,23 +1,38 @@
 {
     "database": {
       "url": "sqlite+aiosqlite:///crm.db",
-      "echo": true
+      "echo": false
     },
     "auth": {
-      "secret_key": "your-secret-key-here"
+      "secret_key": "your-secret-key-here",
+      "algorithm": "HS256",
+      "access_token_expire_minutes": 30
     },
     "file_storage": {
       "enabled": true,
       "backend": "minio",
+      "thumbnail": {
+        "enabled": true,
+        "size": [200, 200]
+      },
       "minio": {
         "endpoint": "localhost:9000",
         "access_key": "minioadmin",
         "secret_key": "miniopassword",
         "secure": false,
-        "bucket": "crm-bucket"
+        "bucket": "crm-bucket",
+        "domain": "http://localhost:9000/"
       }
     },
     "scheduler": {
       "enabled": true
+    },
+    "app": {
+      "title": "CRM App",
+      "description": "A FastAPI-based CRM application with user authentication and profile management.",
+      "version": "0.1.0",
+      "docs_url": "/docs",
+      "host": "0.0.0.0",
+      "port": 8000
     }
   }
