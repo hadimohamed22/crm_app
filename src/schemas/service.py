@@ -4,10 +4,10 @@ from uuid import UUID
 from datetime import datetime
 
 class InstallationAddress(BaseModel):
-    installation_province: Optional[str] = None
-    installation_city: Optional[str] = None
-    installation_address: Optional[str] = None
-    installation_postal_code: Optional[str] = None
+    province: Optional[str] = None
+    city: Optional[str] = None
+    address: Optional[str] = None
+    postal_code: Optional[str] = None
     latitude: Optional[float] = None
     longitude: Optional[float] = None
 

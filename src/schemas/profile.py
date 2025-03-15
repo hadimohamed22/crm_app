@@ -38,6 +38,11 @@ class ProfileCreate(BaseModel):
     contact_info: ContactInfo
     address: Address
 
+class ProfileUpdate(BaseModel):
+    personal_info: Optional[PersonalInfo] = None
+    contact_info: Optional[ContactInfo] = None
+    address: Optional[Address] = None
+    
 class ProfileResponse(ProfileCreate):
     id: UUID
     create_date: datetime

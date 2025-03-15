@@ -17,7 +17,23 @@ async def create_service(
     db: AsyncSession = Depends(get_db),
     current_user: User = Depends(get_current_user)
 ):
-    db_service = Service(**service.dict(), create_user=current_user.username, update_user=current_user.username)
+    service_data = service.dict()
+    flat_data = {
+        "account_id": service_data["account_id"],
+        "service_type": service_data["service_type"],
+        **service_data["installation_address"],
+        **service_data["service_identifiers"],
+        "status": service_data["status"],
+        "shahkar_ref_id": service_data["shahkar_ref_id"],
+        "installation_date": service_data["installation_date"],
+        "confirmation_date": service_data["confirmation_date"],
+        "purchase_date": service_data["purchase_date"],
+        "delivery_date": service_data["delivery_date"],
+        "activation_date": service_data["activation_date"],
+        "cancelation_date": service_data["cancelation_date"],
+        "registration_date": service_data["registration_date"]
+    }
+    db_service = Service(**flat_data, create_user=current_user.username, update_user=current_user.username)
     db.add(db_service)
     await db.commit()
     await db.refresh(db_service)
@@ -49,8 +65,17 @@ async def update_service(
     if not service:
         logger.warning(f"Service {service_id} not found for update")
         raise NotFoundException()
-    for key, value in service_update.dict(exclude_unset=True).items():
-        setattr(service, key, value)
+    update_data = service_update.dict(exclude_unset=True)
+    if "installation_address" in update_data:
+        for key, value in update_data["installation_address"].items():
+            setattr(service, key, value)
+    if "service_identifiers" in update_data:
+        for key, value in update_data["service_identifiers"].items():
+            setattr(service, key, value)
+    for key in ["service_type", "status", "shahkar_ref_id", "installation_date", "confirmation_date", 
+                "purchase_date", "delivery_date", "activation_date", "cancelation_date", "registration_date"]:
+        if key in update_data:
+            setattr(service, key, update_data[key])
     service.update_user = current_user.username
     await db.commit()
     await db.refresh(service)
