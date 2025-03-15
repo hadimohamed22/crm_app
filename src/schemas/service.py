@@ -6,14 +6,14 @@ from datetime import datetime
 class ServiceBase(BaseModel):
     account_id: UUID
     service_type: str
-    province: Optional[str] = None
-    city: Optional[str] = None
-    address: Optional[str] = None
-    postal_code: Optional[str] = None
-    lat: Optional[float] = None
-    long: Optional[float] = None
+    installation_province: Optional[str] = None
+    installation_city: Optional[str] = None
+    installation_address: Optional[str] = None
+    installation_postal_code: Optional[str] = None
+    latitude: Optional[float] = None
+    longitude: Optional[float] = None
     msisdn: Optional[str] = None
-    lit_number: Optional[str] = None
+    kit_number: Optional[str] = None
     imei: Optional[str] = None
     mac_id: Optional[str] = None
     status: Optional[str] = "pending"
@@ -31,14 +31,14 @@ class ServiceCreate(ServiceBase):
 
 class ServiceUpdate(BaseModel):
     service_type: Optional[str] = None
-    province: Optional[str] = None
-    city: Optional[str] = None
-    address: Optional[str] = None
-    postal_code: Optional[str] = None
-    lat: Optional[float] = None
-    long: Optional[float] = None
+    installation_province: Optional[str] = None
+    installation_city: Optional[str] = None
+    installation_address: Optional[str] = None
+    installation_postal_code: Optional[str] = None
+    latitude: Optional[float] = None
+    longitude: Optional[float] = None
     msisdn: Optional[str] = None
-    lit_number: Optional[str] = None
+    kit_number: Optional[str] = None
     imei: Optional[str] = None
     mac_id: Optional[str] = None
     status: Optional[str] = None

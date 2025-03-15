@@ -20,7 +20,7 @@ async def lifespan(app: FastAPI):
 app = FastAPI(
     title=app_config.get("title", "CRM App"),
     description=app_config.get("description", "A FastAPI-based CRM application with user authentication and profile management."),
-    version=app_config.get("version", "0.1.0"),
+    version=app_config.get("version", "0.1.3"),
     docs_url=app_config.get("docs_url", "/docs"),
     openapi_tags=[
         {"name": "Authentication", "description": "User registration and login"},
@@ -39,7 +39,7 @@ app.include_router(service.router)
 @app.get("/")
 async def read_root():
     logger.info("Root endpoint accessed")
-    return {"message": f"Welcome to the {app_config.get('title', 'CRM App')}", "version": app_config.get("version", "0.1.0")}
+    return {"message": f"Welcome to the {app_config.get('title', 'CRM App')}", "version": app_config.get("version", "0.1.3")}
 
 if __name__ == "__main__":
     import uvicorn

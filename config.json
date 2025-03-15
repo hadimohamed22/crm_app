@@ -31,7 +31,7 @@
   "app": {
     "title": "CRM App",
     "description": "A FastAPI-based CRM application with user authentication and profile management.",
-    "version": "0.1.0",
+    "version": "0.1.3",
     "docs_url": "/docs",
     "host": "0.0.0.0",
     "port": 8000,
