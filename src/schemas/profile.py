@@ -3,7 +3,7 @@ from datetime import date, datetime
 from uuid import UUID
 from typing import Optional
 
-class ProfileCreate(BaseModel):
+class PersonalInfo(BaseModel):
     first_name: str
     last_name: str
     father_name: Optional[str] = None
@@ -13,12 +13,16 @@ class ProfileCreate(BaseModel):
     gender: Optional[str] = None
     nationality: Optional[str] = None
     identification_type: Optional[str] = None
+    preferred_language: Optional[str] = None
+    
+class ContactInfo(BaseModel):
     tel_number: Optional[str] = None
     tel_code: Optional[str] = None
     mobile_number: Optional[str] = None
     emergency_phone_number: Optional[str] = None
-    preferred_language: Optional[str] = None
     email: Optional[str] = None
+  
+class Address(BaseModel):
     province: Optional[str] = None
     city: Optional[str] = None
     address: Optional[str] = None
@@ -28,6 +32,11 @@ class ProfileCreate(BaseModel):
     unit: Optional[str] = None
     floor: Optional[int] = None
     plaque: Optional[str] = None
+          
+class ProfileCreate(BaseModel):
+    personal_info: PersonalInfo
+    contact_info: ContactInfo
+    address: Address
 
 class ProfileResponse(ProfileCreate):
     id: UUID
