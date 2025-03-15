@@ -2,6 +2,7 @@ from sqlalchemy import create_engine
 from ..core.orm import Base
 from ..models.user import User
 from ..models.profile import Profile
+from ..models.account import Account
 from ..core.config import config
 
 def init_db():
