@@ -5,7 +5,7 @@ from ..models.profile import Profile
 from ..core.config import config
 
 def init_db():
-    db_url = config.get("database", {}).get("url", "sqlite+aiosqlite:///crm.db").replace("postgresql+asyncpg://", "postgresql://")
+    db_url = config.get("database", {}).get("url", "").replace("postgresql+asyncpg://", "postgresql://")
     engine = create_engine(db_url, echo=config.get("database", {}).get("echo", False))
     Base.metadata.create_all(engine)
     print("Database tables created successfully.")
