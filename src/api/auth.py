@@ -7,6 +7,9 @@ from ..core.orm import get_db
 from sqlalchemy.future import select
 import bcrypt
 from sqlalchemy.ext.asyncio import AsyncSession
+from ..core.config import config
+from ..core.logger import logger
+from ..core.exceptions import UnauthorizedException
 
 router = APIRouter(prefix="/auth", tags=["Authentication"])
 

@@ -7,6 +7,9 @@ from .core.orm import get_db
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy.future import select
 from datetime import datetime, timedelta
+from .core.logger import logger
+from .core.exceptions import UnauthorizedException
+
 
 SECRET_KEY = config.get("auth", {}).get("secret_key", "your-secret-key")
 ALGORITHM = config.get("auth", {}).get("algorithm", "HS256")
