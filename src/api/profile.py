@@ -18,7 +18,7 @@ async def create_profile(
     db: AsyncSession = Depends(get_db),
     current_user: User = Depends(get_current_user)
 ):
-    profile_data = profile.dict()
+    profile_data = profile.model_dump()
     flat_data = {
         **profile_data["personal_info"],
         **profile_data["contact_info"],

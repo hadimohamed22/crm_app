@@ -17,7 +17,7 @@ async def create_service(
     db: AsyncSession = Depends(get_db),
     current_user: User = Depends(get_current_user)
 ):
-    service_data = service.dict()
+    service_data = service.model_dump()
     flat_data = {
         "account_id": service_data["account_id"],
         "service_type": service_data["service_type"],

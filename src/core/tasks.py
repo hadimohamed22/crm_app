@@ -1,2 +1,3 @@
+from .logger import logger
 async def sample_task():
-    print("Running sample task...")
+    logger.info("Running sample task...")

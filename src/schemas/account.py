@@ -36,4 +36,4 @@ class AccountResponse(AccountBase):
     is_deleted: bool
 
     class Config:
-        orm_mode = True
+        from_attributes = True

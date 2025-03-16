@@ -19,7 +19,7 @@ async def lifespan(app: FastAPI):
 
 app = FastAPI(
     title=app_config.get("title", "CRM App"),
-    description=app_config.get("description", "A FastAPI-based CRM application with user authentication and profile management."),
+    description=app_config.get("description", "A FastAPI"),
     version=app_config.get("version", "0.1.3"),
     docs_url=app_config.get("docs_url", "/docs"),
     openapi_tags=[

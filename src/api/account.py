@@ -17,7 +17,7 @@ async def create_account(
     db: AsyncSession = Depends(get_db),
     current_user: User = Depends(get_current_user)
 ):
-    db_account = Account(**account.dict(), create_user=current_user.username, update_user=current_user.username)
+    db_account = Account(**account.model_dump(), create_user=current_user.username, update_user=current_user.username)
     db.add(db_account)
     await db.commit()
     await db.refresh(db_account)
