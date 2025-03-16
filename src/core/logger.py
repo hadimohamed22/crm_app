@@ -1,7 +1,7 @@
 import logging
 import os
 from .config import config
-
+from colorama import init, Fore, Style
 
 class Colors:
     INFO = '\033[92m'
@@ -17,16 +17,39 @@ class Colors:
     TIME = '\033[100m'
 
 
-class ColoredFormatter(logging.Formatter):
+class FileFormatter(logging.Formatter):
     def format(self, record):
-        record.levelname = f"{getattr(Colors, record.levelname)}{record.levelname}{Colors.ENDC}"
-        record.name = f"{Colors.UNDERLINE}[{record.name}]{Colors.ENDC}"
-        record.asctime = f"{Colors.UNDERLINE}{record.asctime}{Colors.ENDC}"
-        record.message =  f"{Colors.HEADER}{record.message}{Colors.ENDC}"
-        
-        return super().format(record)
+        return (f"{record.levelname}:     "
+            f"{self.formatTime(record)} "
+            f"[{record.name}] "
+            f"{record.msg}"
+        )
     
-            
+
+class ColoredFormatter(logging.Formatter):
+    COLORS = {
+        "DEBUG": Fore.BLUE,
+        "INFO": Fore.GREEN,
+        "WARNING": Fore.YELLOW,
+        "ERROR": Fore.RED,
+        "CRITICAL": Fore.RED + Style.BRIGHT
+    }
+
+    def format(self, record):
+        level_color = self.COLORS.get(record.levelname, Fore.WHITE)
+        time_color = Fore.CYAN  # Separate color for time
+        message_color = Fore.WHITE + Style.BRIGHT  # Default message color
+        reset = Style.RESET_ALL
+        logger_name_color = Style.DIM + Fore.MAGENTA
+        
+        # Format with colored sections
+        return (
+            f"{level_color}{record.levelname}{reset}:     "
+            f"{time_color}{self.formatTime(record)}{reset} "
+            f"{logger_name_color}[{record.name}]{reset} "
+            f"{message_color}{record.msg}{reset}"
+        )
+                    
 class Logger:
     def __init__(self, name: str = "app_logger"):
         self.logger = logging.getLogger(name)
@@ -42,36 +65,33 @@ class Logger:
         file_handler.setLevel(logging.DEBUG)
         console_handler = logging.StreamHandler()
         console_handler.setLevel(logging.INFO)
-        
-        formatter = logging.Formatter(
-            "%(levelname)s:     %(asctime)s [%(name)s]   %(message)s"
-        )
+        formatter = FileFormatter()
         file_handler.setFormatter(formatter)
         
         # Console handler (with color formatting)
         console_handler = logging.StreamHandler()
         console_handler.setLevel(logging.INFO)
-        console_formatter = ColoredFormatter(
-            "%(levelname)s:     %(asctime)s %(name)s   %(message)s"
-        )
+        console_formatter = ColoredFormatter()
         console_handler.setFormatter(console_formatter)
 
         # Clear existing handlers and add new ones
         self.logger.handlers.clear()
         self.logger.addHandler(file_handler)
         self.logger.addHandler(console_handler)
-        
+    
+    def log(self, message: str, *args):
+        self.logger.log(message, *args)    
 
-    def info(self, message: str):
-        self.logger.info(message)
+    def info(self, message: str, *args):
+        self.logger.info(message, *args)
 
-    def debug(self, message: str):
-        self.logger.debug(message)
+    def debug(self, message: str, *args):
+        self.logger.debug(message, *args)
 
-    def error(self, message: str):
-        self.logger.error(message)
+    def error(self, message: str, *args):
+        self.logger.error(message, *args)
 
-    def warning(self, message: str):
-        self.logger.warning(message)
+    def warning(self, message: str, *args):
+        self.logger.warning(message, *args)
 
 logger = Logger()

@@ -1,8 +1,8 @@
 from fastapi import APIRouter, HTTPException, Depends, Query
 from ..models.profile import Profile
 from ..models.user import User
-from ..schemas.profile import ProfileCreate, ProfileResponse, ProfileUpdate
-from ..dependencies import get_current_user
+from ..schemas.profile import ProfileCreate, ProfileResponse, ProfileUpdate, map_profile_to_response
+from ..dependencies import get_current_user, authenticate
 from ..core.orm import get_db
 from sqlalchemy.future import select
 from sqlalchemy.ext.asyncio import AsyncSession
@@ -15,23 +15,32 @@ router = APIRouter(prefix="/profiles", tags=["Profiles"])
 @router.post("/", response_model=ProfileResponse)
 async def create_profile(
     profile: ProfileCreate,
+    # auth: bool = Depends(authenticate),
     db: AsyncSession = Depends(get_db),
     current_user: User = Depends(get_current_user)
 ):
+    logger.info("start profile create")
     profile_data = profile.model_dump()
+    logger.info(f"profile_data:{profile_data}")
     flat_data = {
         **profile_data["personal_info"],
         **profile_data["contact_info"],
         **profile_data["address"],
-        "create_user": current_user.username,
-        "update_user": current_user.username
+        "create_user": "current_user.username",
+        "update_user": "current_user.username"
     }
     db_profile = Profile(**flat_data)
-    db.add(db_profile)
-    await db.commit()
-    await db.refresh(db_profile)
-    logger.info(f"Profile created by {current_user.username}: {db_profile.id}")
-    return db_profile
+    logger.info(f"db_profile:{db_profile}")
+    try:
+        db.add(db_profile)
+        await db.commit()
+        await db.refresh(db_profile)
+    except Exception as e:
+        logger.error(str(e))
+        raise Exception(e)
+
+    logger.info(f"Profile created by {"current_user.username"}: {db_profile.id}")
+    return map_profile_to_response(db_profile)
 
 @router.get("/{profile_id}", response_model=ProfileResponse)
 async def get_profile(
@@ -44,7 +53,7 @@ async def get_profile(
     if not profile:
         logger.warning(f"Profile {profile_id} not found")
         raise NotFoundException()
-    return profile
+    return map_profile_to_response(profile)
 
 @router.put("/{profile_id}", response_model=ProfileResponse)
 async def update_profile(
@@ -72,7 +81,7 @@ async def update_profile(
     await db.commit()
     await db.refresh(profile)
     logger.info(f"Profile {profile_id} updated by {current_user.username}")
-    return profile
+    return map_profile_to_response(profile)
 
 @router.delete("/{profile_id}")
 async def delete_profile(
@@ -104,4 +113,4 @@ async def list_profiles(
     )
     profiles = result.scalars().all()
     logger.info(f"Profiles listed by {current_user.username}, page {page}, size {page_size}")
-    return profiles
+    return [map_profile_to_response(profile) for profile in profiles]

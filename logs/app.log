@@ -260,3 +260,439 @@ INFO:     2025-03-16 11:15:07,416 [app_logger]   Running sample task...
 INFO:     2025-03-16 11:15:17,951 [app_logger]   Shutting down CRM App
 INFO:     2025-03-16 11:15:22,807 [app_logger]   Database tables created successfully.
 INFO:     2025-03-16 11:15:22,838 [app_logger]   Starting CRM App
+INFO:     2025-03-16 11:16:22,849 [app_logger]   Running sample task...
+INFO:     2025-03-16 11:17:22,848 [app_logger]   Running sample task...
+INFO:     2025-03-16 11:18:22,848 [app_logger]   Running sample task...
+INFO:     2025-03-16 11:20:22,849 [app_logger]   Running sample task...
+INFO:     2025-03-16 11:21:22,848 [app_logger]   Running sample task...
+INFO:     2025-03-16 11:22:22,848 [app_logger]   Running sample task...
+INFO:     2025-03-16 11:23:22,849 [app_logger]   Running sample task...
+INFO:     2025-03-16 11:24:22,848 [app_logger]   Running sample task...
+INFO:     2025-03-16 11:25:22,849 [app_logger]   Running sample task...
+INFO:     2025-03-16 11:26:22,852 [app_logger]   Running sample task...
+INFO:     2025-03-16 11:27:22,848 [app_logger]   Running sample task...
+INFO:     2025-03-16 11:27:52,138 [app_logger]   Shutting down CRM App
+INFO:     2025-03-16 11:28:01,165 [app_logger]   Database tables created successfully.
+INFO:     2025-03-16 11:28:01,199 [app_logger]   Starting CRM App
+INFO:     2025-03-16 11:28:03,680 [app_logger]   Shutting down CRM App
+INFO:     2025-03-16 11:28:08,505 [app_logger]   Database tables created successfully.
+INFO:     2025-03-16 11:28:08,538 [app_logger]   Starting CRM App
+INFO:     2025-03-16 11:29:08,547 [app_logger]   Running sample task...
+INFO:     2025-03-16 11:30:08,548 [app_logger]   Running sample task...
+INFO:     2025-03-16 11:31:01,463 [app_logger]   Shutting down CRM App
+INFO:     2025-03-16 11:32:08,181 [app_logger]   Database tables created successfully.
+INFO:     2025-03-16 11:32:08,212 [app_logger]   Starting CRM App
+INFO:     2025-03-16 11:32:13,401 [app_logger]   Database tables created successfully.
+INFO:     2025-03-16 11:32:13,430 [app_logger]   Starting CRM App
+INFO:     2025-03-16 11:33:13,440 [app_logger]   Running sample task...
+INFO:     2025-03-16 11:33:24,136 [app_logger]   Shutting down CRM App
+INFO:     2025-03-16 11:33:29,216 [app_logger]   Database tables created successfully.
+INFO:     2025-03-16 11:33:29,242 [app_logger]   Starting CRM App
+INFO:     2025-03-16 11:34:04,328 [app_logger]   Shutting down CRM App
+INFO:     2025-03-16 11:34:09,156 [app_logger]   Database tables created successfully.
+INFO:     2025-03-16 11:34:09,206 [app_logger]   Starting CRM App
+INFO:     2025-03-16 11:34:24,749 [app_logger]   Shutting down CRM App
+INFO:     2025-03-16 11:34:28,494 [app_logger]   Database tables created successfully.
+INFO:     2025-03-16 11:34:28,530 [app_logger]   Starting CRM App
+INFO:     2025-03-16 11:35:22,124 [app_logger]   Shutting down CRM App
+INFO:     2025-03-16 11:35:26,673 [app_logger]   Database tables created successfully.
+INFO:     2025-03-16 11:35:26,714 [app_logger]   Starting CRM App
+INFO:     2025-03-16 11:35:41,643 [app_logger]   Shutting down CRM App
+INFO:     2025-03-16 11:35:46,693 [app_logger]   Database tables created successfully.
+INFO:     2025-03-16 11:35:46,724 [app_logger]   Starting CRM App
+INFO:     2025-03-16 11:35:53,029 [app_logger]   Shutting down CRM App
+INFO:     2025-03-16 11:36:18,477 [app_logger]   Database tables created successfully.
+INFO:     2025-03-16 11:36:18,516 [app_logger]   Starting CRM App
+INFO:     2025-03-16 11:36:24,201 [app_logger]   Shutting down CRM App
+INFO:     2025-03-16 11:36:27,765 [app_logger]   Database tables created successfully.
+INFO:     2025-03-16 11:36:27,797 [app_logger]   Starting CRM App
+INFO:     2025-03-16 11:36:53,151 [app_logger]   Shutting down CRM App
+INFO:     2025-03-16 11:36:57,173 [app_logger]   Database tables created successfully.
+INFO:     2025-03-16 11:36:57,201 [app_logger]   Starting CRM App
+INFO:     2025-03-16 11:37:02,894 [app_logger]   Shutting down CRM App
+INFO:     2025-03-16 11:37:07,602 [app_logger]   Database tables created successfully.
+INFO:     2025-03-16 11:37:07,645 [app_logger]   Starting CRM App
+INFO:     2025-03-16 11:37:33,225 [app_logger]   Shutting down CRM App
+INFO:     2025-03-16 11:37:37,935 [app_logger]   Database tables created successfully.
+INFO:     2025-03-16 11:37:37,968 [app_logger]   Starting CRM App
+INFO:     2025-03-16 11:37:53,513 [app_logger]   Shutting down CRM App
+INFO:     2025-03-16 11:37:58,669 [app_logger]   Database tables created successfully.
+INFO:     2025-03-16 11:37:58,767 [app_logger]   Starting CRM App
+INFO:     2025-03-16 11:38:05,353 [app_logger]   Shutting down CRM App
+INFO:     2025-03-16 11:38:20,054 [app_logger]   Database tables created successfully.
+INFO:     2025-03-16 11:38:20,088 [app_logger]   Starting CRM App
+INFO:     2025-03-16 11:38:53,447 [app_logger]   Shutting down CRM App
+INFO:     2025-03-16 11:38:58,524 [app_logger]   Database tables created successfully.
+INFO:     2025-03-16 11:38:58,557 [app_logger]   Starting CRM App
+INFO:     2025-03-16 11:39:04,943 [app_logger]   Shutting down CRM App
+INFO:     2025-03-16 11:39:29,698 [app_logger]   Database tables created successfully.
+INFO:     2025-03-16 11:39:29,727 [app_logger]   Starting CRM App
+INFO:     2025-03-16 11:39:54,672 [app_logger]   Shutting down CRM App
+INFO:     2025-03-16 11:39:59,439 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 11:39:59,475 [app_logger] Starting CRM App
+INFO:     2025-03-16 11:40:59,488 [app_logger] Running sample task...
+INFO:     2025-03-16 11:41:33,597 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 11:41:38,622 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 11:41:38,655 [app_logger] Starting CRM App
+INFO:     2025-03-16 11:41:43,204 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 11:41:48,577 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 11:41:48,607 [app_logger] Starting CRM App
+INFO:     2025-03-16 11:41:54,578 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 11:42:10,040 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 11:42:10,074 [app_logger] Starting CRM App
+INFO:     2025-03-16 11:42:25,819 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 11:42:30,571 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 11:42:30,608 [app_logger] Starting CRM App
+INFO:     2025-03-16 11:42:36,634 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 11:42:40,438 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 11:42:40,468 [app_logger] Starting CRM App
+INFO:     2025-03-16 11:42:46,770 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 11:42:51,995 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 11:42:52,026 [app_logger] Starting CRM App
+INFO:     2025-03-16 11:42:57,921 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 11:43:03,076 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 11:43:03,110 [app_logger] Starting CRM App
+INFO:     2025-03-16 11:43:09,199 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 11:43:13,214 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 11:43:13,251 [app_logger] Starting CRM App
+INFO:     2025-03-16 11:43:19,836 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 11:43:25,247 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 11:43:25,278 [app_logger] Starting CRM App
+INFO:     2025-03-16 11:43:31,027 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 11:43:36,020 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 11:43:36,051 [app_logger] Starting CRM App
+INFO:     2025-03-16 11:43:41,640 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 11:43:46,436 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 11:43:46,466 [app_logger] Starting CRM App
+INFO:     2025-03-16 11:44:46,476 [app_logger] Running sample task...
+INFO:     2025-03-16 11:45:46,476 [app_logger] Running sample task...
+INFO:     2025-03-16 11:46:46,476 [app_logger] Running sample task...
+INFO:     2025-03-16 11:47:46,478 [app_logger] Running sample task...
+INFO:     2025-03-16 11:48:46,478 [app_logger] Running sample task...
+INFO:     2025-03-16 11:49:46,476 [app_logger] Running sample task...
+INFO:     2025-03-16 11:50:46,477 [app_logger] Running sample task...
+INFO:     2025-03-16 11:51:46,476 [app_logger] Running sample task...
+INFO:     2025-03-16 11:52:46,479 [app_logger] Running sample task...
+INFO:     2025-03-16 11:53:46,477 [app_logger] Running sample task...
+INFO:     2025-03-16 11:54:46,479 [app_logger] Running sample task...
+INFO:     2025-03-16 11:55:46,479 [app_logger] Running sample task...
+INFO:     2025-03-16 11:56:46,477 [app_logger] Running sample task...
+INFO:     2025-03-16 11:57:46,476 [app_logger] Running sample task...
+INFO:     2025-03-16 11:58:46,476 [app_logger] Running sample task...
+INFO:     2025-03-16 11:59:46,476 [app_logger] Running sample task...
+INFO:     2025-03-16 12:00:46,480 [app_logger] Running sample task...
+INFO:     2025-03-16 12:01:46,476 [app_logger] Running sample task...
+INFO:     2025-03-16 12:01:57,624 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:03:35,569 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:03:35,606 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:03:42,186 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:03:47,734 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:03:47,770 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:03:53,214 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:03:57,984 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:03:58,015 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:04:04,336 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:04:09,398 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:04:09,427 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:04:15,076 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:04:19,866 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:04:19,897 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:04:35,613 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:04:40,839 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:04:40,875 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:04:56,310 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:05:01,091 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:05:01,120 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:06:01,132 [app_logger] Running sample task...
+INFO:     2025-03-16 12:06:37,152 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:06:42,116 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:06:42,153 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:07:42,163 [app_logger] Running sample task...
+INFO:     2025-03-16 12:08:42,163 [app_logger] Running sample task...
+INFO:     2025-03-16 12:08:47,888 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:09:55,507 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:09:55,536 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:10:01,521 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:10:05,672 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:10:05,709 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:10:41,857 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:10:47,757 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:10:47,810 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:10:53,882 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:10:59,093 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:10:59,131 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:11:24,927 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:11:30,130 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:11:30,165 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:11:34,874 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:11:39,672 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:11:39,700 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:11:45,589 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:11:50,441 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:11:50,476 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:12:05,726 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:12:11,330 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:12:11,359 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:12:17,383 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:12:22,541 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:12:22,578 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:13:22,590 [app_logger] Running sample task...
+INFO:     2025-03-16 12:14:22,591 [app_logger] Running sample task...
+INFO:     2025-03-16 12:15:22,590 [app_logger] Running sample task...
+INFO:     2025-03-16 12:16:22,590 [app_logger] Running sample task...
+INFO:     2025-03-16 12:17:22,595 [app_logger] Running sample task...
+INFO:     2025-03-16 12:18:22,591 [app_logger] Running sample task...
+INFO:     2025-03-16 12:19:22,592 [app_logger] Running sample task...
+INFO:     2025-03-16 12:20:22,591 [app_logger] Running sample task...
+INFO:     2025-03-16 12:21:22,590 [app_logger] Running sample task...
+INFO:     2025-03-16 12:22:22,591 [app_logger] Running sample task...
+INFO:     2025-03-16 12:23:22,591 [app_logger] Running sample task...
+INFO:     2025-03-16 12:24:22,591 [app_logger] Running sample task...
+INFO:     2025-03-16 12:25:22,591 [app_logger] Running sample task...
+INFO:     2025-03-16 12:26:22,591 [app_logger] Running sample task...
+INFO:     2025-03-16 12:27:22,591 [app_logger] Running sample task...
+INFO:     2025-03-16 12:28:22,591 [app_logger] Running sample task...
+INFO:     2025-03-16 12:29:22,590 [app_logger] Running sample task...
+INFO:     2025-03-16 12:30:22,592 [app_logger] Running sample task...
+INFO:     2025-03-16 12:31:22,590 [app_logger] Running sample task...
+INFO:     2025-03-16 12:32:22,591 [app_logger] Running sample task...
+INFO:     2025-03-16 12:33:22,593 [app_logger] Running sample task...
+INFO:     2025-03-16 12:34:23,479 [app_logger] Running sample task...
+INFO:     2025-03-16 12:35:22,593 [app_logger] Running sample task...
+INFO:     2025-03-16 12:36:22,590 [app_logger] Running sample task...
+INFO:     2025-03-16 12:37:22,593 [app_logger] Running sample task...
+INFO:     2025-03-16 12:38:22,590 [app_logger] Running sample task...
+INFO:     2025-03-16 12:39:22,591 [app_logger] Running sample task...
+INFO:     2025-03-16 12:40:22,591 [app_logger] Running sample task...
+INFO:     2025-03-16 12:41:22,591 [app_logger] Running sample task...
+INFO:     2025-03-16 12:42:22,594 [app_logger] Running sample task...
+INFO:     2025-03-16 12:43:22,590 [app_logger] Running sample task...
+INFO:     2025-03-16 12:44:22,594 [app_logger] Running sample task...
+INFO:     2025-03-16 12:44:54,227 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:44:59,582 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:44:59,617 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:45:05,390 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:45:20,369 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:45:20,416 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:45:26,410 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:45:31,497 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:45:31,530 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:46:31,540 [app_logger] Running sample task...
+INFO:     2025-03-16 12:47:31,540 [app_logger] Running sample task...
+INFO:     2025-03-16 12:48:12,468 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:48:17,870 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:48:17,908 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:48:23,776 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:48:29,136 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:48:29,167 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:48:34,134 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:48:39,205 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:48:39,263 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:48:45,343 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:48:50,775 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:48:50,804 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:48:57,042 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:49:02,284 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:49:02,316 [app_logger] Starting CRM App
+DEBUG:     2025-03-16 12:49:02,346 [app_logger] db_profile:
+DEBUG:     2025-03-16 12:49:56,185 [app_logger] db_profile:
+INFO:     2025-03-16 12:49:58,404 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:50:02,051 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:50:02,082 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:50:48,777 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:50:54,402 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:50:54,459 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:50:59,893 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:51:05,016 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:51:05,046 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:51:11,320 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:51:16,130 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:51:16,160 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:52:16,173 [app_logger] Running sample task...
+INFO:     2025-03-16 12:52:23,464 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:52:27,804 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:52:27,837 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:52:32,685 [app_logger] start profile create
+INFO:     2025-03-16 12:52:32,685 [app_logger] profile_data:
+INFO:     2025-03-16 12:52:34,264 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:52:39,178 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:52:39,222 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:52:45,384 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:52:50,761 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:52:50,799 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:52:51,614 [app_logger] start profile create
+INFO:     2025-03-16 12:52:51,615 [app_logger] profile_data:
+INFO:     2025-03-16 12:52:51,622 [app_logger] db_profile:
+INFO:     2025-03-16 12:52:55,770 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:53:01,080 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:53:01,113 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:53:27,718 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:53:33,370 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:53:33,400 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:53:39,784 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:53:45,298 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:53:45,382 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:53:46,062 [app_logger] start profile create
+INFO:     2025-03-16 12:53:46,062 [app_logger] profile_data:{'personal_info': {'first_name': 'string', 'last_name': 'string', 'father_name': 'string', 'national_id': '12345', 'birth_cert_number': '1111', 'date_of_birth': datetime.date(2025, 3, 15), 'gender': 'string', 'nationality': 'string', 'identification_type': 'string', 'preferred_language': 'string'}, 'contact_info': {'tel_number': 'string', 'tel_code': 'string', 'mobile_number': 'string', 'emergency_phone_number': 'string', 'email': 'test@site'}, 'address': {'province': 'string', 'city': 'string', 'address': 'string', 'postal_code': 'string', 'latitude': 0.0, 'longitude': 0.0, 'unit': 'string', 'floor': 0, 'plaque': 'string'}}
+INFO:     2025-03-16 12:53:46,072 [app_logger] db_profile:<Profile(id=None, first_name=string, last_name=string)>
+INFO:     2025-03-16 12:54:21,607 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:55:22,423 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:55:22,456 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:55:28,811 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:55:34,164 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:55:34,201 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:55:39,576 [app_logger] start profile create
+INFO:     2025-03-16 12:55:39,576 [app_logger] profile_data:{'personal_info': {'first_name': 'string', 'last_name': 'string', 'father_name': 'string', 'national_id': '12345', 'birth_cert_number': '1111', 'date_of_birth': datetime.date(2025, 3, 15), 'gender': 'string', 'nationality': 'string', 'identification_type': 'string', 'preferred_language': 'string'}, 'contact_info': {'tel_number': 'string', 'tel_code': 'string', 'mobile_number': 'string', 'emergency_phone_number': 'string', 'email': 'test@site'}, 'address': {'province': 'string', 'city': 'string', 'address': 'string', 'postal_code': 'string', 'latitude': 0.0, 'longitude': 0.0, 'unit': 'string', 'floor': 0, 'plaque': 'string'}}
+INFO:     2025-03-16 12:55:39,585 [app_logger] db_profile:<Profile(id=None, first_name=string, last_name=string)>
+INFO:     2025-03-16 12:56:09,278 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:56:14,622 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:56:14,664 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:56:29,736 [app_logger] start profile create
+INFO:     2025-03-16 12:56:29,737 [app_logger] profile_data:{'personal_info': {'first_name': 'string', 'last_name': 'string', 'father_name': 'string', 'national_id': '12345', 'birth_cert_number': '1111', 'date_of_birth': datetime.date(2025, 3, 15), 'gender': 'string', 'nationality': 'string', 'identification_type': 'string', 'preferred_language': 'string'}, 'contact_info': {'tel_number': 'string', 'tel_code': 'string', 'mobile_number': 'string', 'emergency_phone_number': 'string', 'email': 'test@site'}, 'address': {'province': 'string', 'city': 'string', 'address': 'string', 'postal_code': 'string', 'latitude': 0.0, 'longitude': 0.0, 'unit': 'string', 'floor': 0, 'plaque': 'string'}}
+INFO:     2025-03-16 12:56:29,743 [app_logger] db_profile:<Profile(id=None, first_name=string, last_name=string)>
+INFO:     2025-03-16 12:57:14,675 [app_logger] Running sample task...
+INFO:     2025-03-16 12:58:06,144 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:58:10,898 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:58:10,945 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:58:17,184 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:58:22,371 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:58:22,400 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:58:28,498 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:58:33,573 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:58:33,608 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:58:33,641 [app_logger] start profile create
+INFO:     2025-03-16 12:58:33,642 [app_logger] profile_data:{'personal_info': {'first_name': 'string', 'last_name': 'string', 'father_name': 'string', 'national_id': '12345', 'birth_cert_number': '1111', 'date_of_birth': datetime.date(2025, 3, 15), 'gender': 'string', 'nationality': 'string', 'identification_type': 'string', 'preferred_language': 'string'}, 'contact_info': {'tel_number': 'string', 'tel_code': 'string', 'mobile_number': 'string', 'emergency_phone_number': 'string', 'email': 'test@site'}, 'address': {'province': 'string', 'city': 'string', 'address': 'string', 'postal_code': 'string', 'latitude': 0.0, 'longitude': 0.0, 'unit': 'string', 'floor': 0, 'plaque': 'string'}}
+INFO:     2025-03-16 12:58:33,648 [app_logger] db_profile:<Profile(id=None, first_name=string, last_name=string)>
+INFO:     2025-03-16 12:58:39,559 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 12:58:43,745 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 12:58:43,777 [app_logger] Starting CRM App
+INFO:     2025-03-16 12:59:43,788 [app_logger] Running sample task...
+INFO:     2025-03-16 12:59:56,848 [app_logger] start profile create
+INFO:     2025-03-16 12:59:56,848 [app_logger] profile_data:{'personal_info': {'first_name': 'string', 'last_name': 'string', 'father_name': 'string', 'national_id': '12345', 'birth_cert_number': '1111', 'date_of_birth': datetime.date(2025, 3, 15), 'gender': 'string', 'nationality': 'string', 'identification_type': 'string', 'preferred_language': 'string'}, 'contact_info': {'tel_number': 'string', 'tel_code': 'string', 'mobile_number': 'string', 'emergency_phone_number': 'string', 'email': 'test@site'}, 'address': {'province': 'string', 'city': 'string', 'address': 'string', 'postal_code': 'string', 'latitude': 0.0, 'longitude': 0.0, 'unit': 'string', 'floor': 0, 'plaque': 'string'}}
+INFO:     2025-03-16 12:59:56,857 [app_logger] db_profile:<Profile(id=None, first_name=string, last_name=string)>
+INFO:     2025-03-16 13:00:43,788 [app_logger] Running sample task...
+INFO:     2025-03-16 13:00:48,905 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 13:00:54,393 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 13:00:54,420 [app_logger] Starting CRM App
+INFO:     2025-03-16 13:00:58,414 [app_logger] start profile create
+INFO:     2025-03-16 13:00:58,415 [app_logger] profile_data:{'personal_info': {'first_name': 'string', 'last_name': 'string', 'father_name': 'string', 'national_id': '12345', 'birth_cert_number': '1111', 'date_of_birth': datetime.date(2025, 3, 15), 'gender': 'string', 'nationality': 'string', 'identification_type': 'string', 'preferred_language': 'string'}, 'contact_info': {'tel_number': 'string', 'tel_code': 'string', 'mobile_number': 'string', 'emergency_phone_number': 'string', 'email': 'test@site'}, 'address': {'province': 'string', 'city': 'string', 'address': 'string', 'postal_code': 'string', 'latitude': 0.0, 'longitude': 0.0, 'unit': 'string', 'floor': 0, 'plaque': 'string'}}
+INFO:     2025-03-16 13:00:58,421 [app_logger] db_profile:<Profile(id=None, first_name=string, last_name=string)>
+INFO:     2025-03-16 13:01:00,553 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 13:01:04,307 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 13:01:04,342 [app_logger] Starting CRM App
+INFO:     2025-03-16 13:01:08,926 [app_logger] start profile create
+INFO:     2025-03-16 13:01:08,926 [app_logger] profile_data:{'personal_info': {'first_name': 'string', 'last_name': 'string', 'father_name': 'string', 'national_id': '12345', 'birth_cert_number': '1111', 'date_of_birth': datetime.date(2025, 3, 15), 'gender': 'string', 'nationality': 'string', 'identification_type': 'string', 'preferred_language': 'string'}, 'contact_info': {'tel_number': 'string', 'tel_code': 'string', 'mobile_number': 'string', 'emergency_phone_number': 'string', 'email': 'test@site'}, 'address': {'province': 'string', 'city': 'string', 'address': 'string', 'postal_code': 'string', 'latitude': 0.0, 'longitude': 0.0, 'unit': 'string', 'floor': 0, 'plaque': 'string'}}
+INFO:     2025-03-16 13:01:08,935 [app_logger] db_profile:<Profile(id=None, first_name=string, last_name=string)>
+INFO:     2025-03-16 13:02:04,355 [app_logger] Running sample task...
+INFO:     2025-03-16 13:02:22,229 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 13:02:27,488 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 13:02:27,518 [app_logger] Starting CRM App
+INFO:     2025-03-16 13:02:32,457 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 13:02:37,639 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 13:02:37,672 [app_logger] Starting CRM App
+INFO:     2025-03-16 13:02:37,704 [app_logger] start profile create
+INFO:     2025-03-16 13:02:37,705 [app_logger] profile_data:{'personal_info': {'first_name': 'string', 'last_name': 'string', 'father_name': 'string', 'national_id': '12345', 'birth_cert_number': '1111', 'date_of_birth': datetime.date(2025, 3, 15), 'gender': 'string', 'nationality': 'string', 'identification_type': 'string', 'preferred_language': 'string'}, 'contact_info': {'tel_number': 'string', 'tel_code': 'string', 'mobile_number': 'string', 'emergency_phone_number': 'string', 'email': 'test@site'}, 'address': {'province': 'string', 'city': 'string', 'address': 'string', 'postal_code': 'string', 'latitude': 0.0, 'longitude': 0.0, 'unit': 'string', 'floor': 0, 'plaque': 'string'}}
+INFO:     2025-03-16 13:02:37,712 [app_logger] db_profile:<Profile(id=None, first_name=string, last_name=string)>
+ERROR:     2025-03-16 13:02:37,794 [app_logger] (sqlalchemy.dialects.postgresql.asyncpg.Error) <class 'asyncpg.exceptions.DataError'>: invalid input for query argument $26: datetime.datetime(2025, 3, 16, 9, 32, 36... (can't subtract offset-naive and offset-aware datetimes)
+[SQL: INSERT INTO profiles (first_name, last_name, father_name, national_id, birth_cert_number, date_of_birth, gender, nationality, identification_type, tel_number, tel_code, mobile_number, emergency_phone_number, preferred_language, email, province, city, address, postal_code, latitude, longitude, unit, floor, plaque, id, create_date, update_date, create_user, update_user, is_deleted) VALUES ($1::VARCHAR, $2::VARCHAR, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::DATE, $7::VARCHAR, $8::VARCHAR, $9::VARCHAR, $10::VARCHAR, $11::VARCHAR, $12::VARCHAR, $13::VARCHAR, $14::VARCHAR, $15::VARCHAR, $16::VARCHAR, $17::VARCHAR, $18::VARCHAR, $19::VARCHAR, $20::FLOAT, $21::FLOAT, $22::VARCHAR, $23::INTEGER, $24::VARCHAR, $25::UUID, $26::TIMESTAMP WITHOUT TIME ZONE, $27::TIMESTAMP WITHOUT TIME ZONE, $28::VARCHAR, $29::VARCHAR, $30::BOOLEAN)]
+[parameters: ('string', 'string', 'string', '12345', '1111', datetime.date(2025, 3, 15), 'string', 'string', 'string', 'string', 'string', 'string', 'string', 'string', 'test@site', 'string', 'string', 'string', 'string', 0.0, 0.0, 'string', 0, 'string', UUID('eb5644bc-006d-4b28-8e8a-b828bf82ba0d'), datetime.datetime(2025, 3, 16, 9, 32, 36, 435992, tzinfo=datetime.timezone.utc), datetime.datetime(2025, 3, 16, 9, 32, 36, 436169, tzinfo=datetime.timezone.utc), 'current_user.username', 'current_user.username', False)]
+(Background on this error at: https://sqlalche.me/e/20/dbapi)
+INFO:     2025-03-16 13:03:37,689 [app_logger] Running sample task...
+INFO:     2025-03-16 13:04:37,687 [app_logger] Running sample task...
+INFO:     2025-03-16 13:05:37,687 [app_logger] Running sample task...
+INFO:     2025-03-16 13:06:37,686 [app_logger] Running sample task...
+DEBUG:     2025-03-16 13:07:16,239 [app_logger] ********get_current_user
+INFO:     2025-03-16 13:07:16,240 [app_logger] Auth status: False
+DEBUG:     2025-03-16 13:07:16,241 [app_logger] Auth disabled
+INFO:     2025-03-16 13:07:37,689 [app_logger] Running sample task...
+INFO:     2025-03-16 13:08:37,687 [app_logger] Running sample task...
+INFO:     2025-03-16 13:08:51,908 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 13:08:57,128 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 13:08:57,189 [app_logger] Starting CRM App
+INFO:     2025-03-16 13:08:57,833 [app_logger] Profiles listed by admin, page 1, size 10
+INFO:     2025-03-16 13:09:03,250 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 13:09:08,166 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 13:09:08,198 [app_logger] Starting CRM App
+INFO:     2025-03-16 13:09:16,763 [app_logger] Profiles listed by admin, page 1, size 10
+INFO:     2025-03-16 13:10:08,208 [app_logger] Running sample task...
+INFO:     2025-03-16 13:12:08,215 [app_logger] Running sample task...
+INFO:     2025-03-16 13:13:08,209 [app_logger] Running sample task...
+INFO:     2025-03-16 16:53:08,211 [app_logger] Running sample task...
+INFO:     2025-03-16 16:54:08,208 [app_logger] Running sample task...
+INFO:     2025-03-16 16:55:08,208 [app_logger] Running sample task...
+INFO:     2025-03-16 16:56:08,208 [app_logger] Running sample task...
+INFO:     2025-03-16 16:57:08,208 [app_logger] Running sample task...
+INFO:     2025-03-16 16:57:43,982 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 16:57:50,831 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 16:57:50,863 [app_logger] Starting CRM App
+INFO:     2025-03-16 16:57:59,792 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 16:58:07,054 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 16:58:07,101 [app_logger] Starting CRM App
+INFO:     2025-03-16 16:58:10,439 [app_logger] ********get_current_user
+INFO:     2025-03-16 16:58:10,440 [app_logger] Auth status: False
+INFO:     2025-03-16 16:58:10,441 [app_logger] Auth disabled
+INFO:     2025-03-16 16:58:16,431 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 16:58:21,844 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 16:58:21,875 [app_logger] Starting CRM App
+INFO:     2025-03-16 16:59:21,889 [app_logger] Running sample task...
+INFO:     2025-03-16 17:00:21,889 [app_logger] Running sample task...
+INFO:     2025-03-16 17:01:21,888 [app_logger] Running sample task...
+INFO:     2025-03-16 17:02:21,888 [app_logger] Running sample task...
+INFO:     2025-03-16 17:03:02,662 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 17:03:08,660 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 17:03:08,694 [app_logger] Starting CRM App
+INFO:     2025-03-16 17:03:19,476 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 17:03:26,627 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 17:03:26,660 [app_logger] Starting CRM App
+INFO:     2025-03-16 17:03:31,100 [app_logger] ********get_current_user
+INFO:     2025-03-16 17:03:31,100 [app_logger] Auth status: False
+INFO:     2025-03-16 17:03:31,101 [app_logger] Auth disabled
+INFO:     2025-03-16 17:03:31,243 [app_logger] Profiles listed by anonymous, page 1, size 10
+INFO:     2025-03-16 17:04:23,371 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 17:04:31,380 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 17:04:31,413 [app_logger] Starting CRM App
+INFO:     2025-03-16 17:05:31,431 [app_logger] Running sample task...
+INFO:     2025-03-16 17:06:31,429 [app_logger] Running sample task...
+INFO:     2025-03-16 17:06:34,858 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 17:06:42,807 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 17:06:42,843 [app_logger] Starting CRM App
+INFO:     2025-03-16 17:06:43,706 [app_logger] ********get_current_user
+INFO:     2025-03-16 17:06:43,706 [app_logger] Auth status: False
+INFO:     2025-03-16 17:06:43,707 [app_logger] Auth disabled
+INFO:     2025-03-16 17:06:43,801 [app_logger] Profiles listed by anonymous, page 1, size 10
+INFO:     2025-03-16 17:07:42,859 [app_logger] Running sample task...
+INFO:     2025-03-16 17:08:42,858 [app_logger] Running sample task...
+INFO:     2025-03-16 17:09:42,858 [app_logger] Running sample task...
+INFO:     2025-03-16 17:10:42,860 [app_logger] Running sample task...
+INFO:     2025-03-16 17:11:42,858 [app_logger] Running sample task...
+INFO:     2025-03-16 17:11:46,709 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 17:12:13,990 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 17:12:14,025 [app_logger] Starting CRM App
+INFO:     2025-03-16 17:12:41,541 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 17:12:47,171 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 17:12:47,205 [app_logger] Starting CRM App
+INFO:     2025-03-16 17:13:47,219 [app_logger] Running sample task...
+INFO:     2025-03-16 17:13:52,461 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 17:13:59,765 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 17:13:59,804 [app_logger] Starting CRM App
+INFO:     2025-03-16 17:14:09,537 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 17:14:16,431 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 17:14:16,465 [app_logger] Starting CRM App
+INFO:     2025-03-16 17:14:26,847 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 17:14:34,427 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 17:14:34,466 [app_logger] Starting CRM App
+INFO:     2025-03-16 17:14:43,557 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 17:14:51,069 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 17:14:51,103 [app_logger] Starting CRM App
+INFO:     2025-03-16 17:15:22,171 [app_logger] Shutting down CRM App
+INFO:     2025-03-16 17:15:29,547 [app_logger] Database tables created successfully.
+INFO:     2025-03-16 17:15:29,631 [app_logger] Starting CRM App
+INFO:     2025-03-16 17:15:44,967 [app_logger] ********get_current_user
+INFO:     2025-03-16 17:15:44,967 [app_logger] Auth status: False
+INFO:     2025-03-16 17:15:44,968 [app_logger] Auth disabled
+INFO:     2025-03-16 17:15:45,069 [app_logger] Profiles listed by anonymous, page 1, size 10
+INFO:     2025-03-16 17:16:29,650 [app_logger] Running sample task...
+INFO:     2025-03-16 17:17:29,649 [app_logger] Running sample task...
+INFO:     2025-03-16 17:18:29,652 [app_logger] Running sample task...
+INFO:     2025-03-16 17:19:29,652 [app_logger] Running sample task...
+INFO:     2025-03-16 17:20:29,650 [app_logger] Running sample task...
