@@ -15,7 +15,6 @@ router = APIRouter(prefix="/profiles", tags=["Profiles"])
 @router.post("/", response_model=ProfileResponse)
 async def create_profile(
     profile: ProfileCreate,
-    # auth: bool = Depends(authenticate),
     db: AsyncSession = Depends(get_db),
     current_user: User = Depends(get_current_user)
 ):
@@ -112,5 +111,5 @@ async def list_profiles(
         select(Profile).filter_by(is_deleted=False).offset(offset).limit(page_size)
     )
     profiles = result.scalars().all()
-    logger.info(f"Profiles listed by {current_user.username}, page {page}, size {page_size}")
+    logger.info("Profiles listed by", current_user.username, " page:", page, ", size:", page_size, ", count:", len(profiles))
     return [map_profile_to_response(profile) for profile in profiles]

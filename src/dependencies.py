@@ -31,7 +31,7 @@ def create_access_token(data: dict, expires_delta: timedelta = None):
 # Get current user
 async def get_current_user(token: Optional[str] = Depends(oauth2_scheme), db: AsyncSession = Depends(get_db)):
     # Check if authentication is disabled via config
-    logger.info("********get_current_user")
+    logger.debug("********get_current_user")
     logger.info(f"Auth status: {REQUIRE_AUTH}")
     if not REQUIRE_AUTH: 
         # Return a default "anonymous" user when auth is disabled

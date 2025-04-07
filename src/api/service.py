@@ -6,7 +6,7 @@ from ..core.exceptions import NotFoundException
 from ..dependencies import get_current_user
 from ..models.user import User
 from ..models.service import Service
-from ..schemas.service import ServiceCreate, ServiceUpdate, ServiceResponse
+from ..schemas.service import ServiceCreate, ServiceUpdate, ServiceResponse, map_service_to_response
 from sqlalchemy.future import select
 
 router = APIRouter(prefix="/services", tags=["Services"])
@@ -38,7 +38,7 @@ async def create_service(
     await db.commit()
     await db.refresh(db_service)
     logger.info(f"Service created by {current_user.username}: {db_service.id}")
-    return db_service
+    return map_service_to_response(db_service)
 
 @router.get("/{service_id}", response_model=ServiceResponse)
 async def get_service(
@@ -51,7 +51,7 @@ async def get_service(
     if not service:
         logger.warning(f"Service {service_id} not found")
         raise NotFoundException()
-    return service
+    return map_service_to_response(service)
 
 @router.put("/{service_id}", response_model=ServiceResponse)
 async def update_service(
@@ -80,7 +80,7 @@ async def update_service(
     await db.commit()
     await db.refresh(service)
     logger.info(f"Service {service_id} updated by {current_user.username}")
-    return service
+    return map_service_to_response(service)
 
 @router.delete("/{service_id}")
 async def delete_service(
@@ -112,4 +112,4 @@ async def list_services(
     )
     services = result.scalars().all()
     logger.info(f"Services listed by {current_user.username}, page {page}, size {page_size}")
-    return services
+    return [map_service_to_response(service) for service in services]

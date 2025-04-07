@@ -6,7 +6,7 @@ from ..core.exceptions import NotFoundException
 from ..dependencies import get_current_user
 from ..models.user import User
 from ..models.account import Account
-from ..schemas.account import AccountCreate, AccountUpdate, AccountResponse
+from ..schemas.account import AccountCreate, AccountUpdate, AccountResponse, map_account_to_response
 from sqlalchemy.future import select
 
 router = APIRouter(prefix="/accounts", tags=["Accounts"])
@@ -35,7 +35,7 @@ async def get_account(
     if not account:
         logger.warning(f"Account {account_id} not found")
         raise NotFoundException()
-    return account
+    return map_account_to_response(account)
 
 @router.put("/{account_id}", response_model=AccountResponse)
 async def update_account(
@@ -55,7 +55,7 @@ async def update_account(
     await db.commit()
     await db.refresh(account)
     logger.info(f"Account {account_id} updated by {current_user.username}")
-    return account
+    return map_account_to_response(account)
 
 @router.delete("/{account_id}")
 async def delete_account(
@@ -87,4 +87,4 @@ async def list_accounts(
     )
     accounts = result.scalars().all()
     logger.info(f"Accounts listed by {current_user.username}, page {page}, size {page_size}")
-    return accounts
+    return [map_account_to_response(account) for account in accounts]

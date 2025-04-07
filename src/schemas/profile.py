@@ -58,36 +58,36 @@ class ProfileResponse(ProfileCreate):
 def map_profile_to_response(profile: Profile) -> ProfileResponse:
     return ProfileResponse(
         id=profile.id,
-        personal_info={
-            "first_name": profile.first_name,
-            "last_name": profile.last_name,
-            "father_name": profile.father_name,
-            "national_id": profile.national_id,
-            "birth_cert_number": profile.birth_cert_number,
-            "date_of_birth": profile.date_of_birth,
-            "gender": profile.gender,
-            "nationality": profile.nationality,
-            "identification_type": profile.identification_type,
-            "preferred_language": profile.preferred_language
-        },
-        contact_info={
-            "tel_number": profile.tel_number,
-            "tel_code": profile.tel_code,
-            "mobile_number": profile.mobile_number,
-            "emergency_phone_number": profile.emergency_phone_number,
-            "email": profile.email
-        },
-        address={
-            "province": profile.province,
-            "city": profile.city,
-            "address": profile.address,
-            "postal_code": profile.postal_code,
-            "latitude": profile.latitude,
-            "longitude": profile.longitude,
-            "unit": profile.unit,
-            "floor": profile.floor,
-            "plaque": profile.plaque
-        },
+        personal_info=PersonalInfo(
+            first_name= profile.first_name,
+            last_name= profile.last_name,
+            father_name= profile.father_name,
+            national_id= profile.national_id,
+            birth_cert_number= profile.birth_cert_number,
+            date_of_birth= profile.date_of_birth,
+            gender= profile.gender,
+            nationality= profile.nationality,
+            identification_type= profile.identification_type,
+            preferred_language= profile.preferred_language
+        ),
+        contact_info=ContactInfo(
+            tel_number= profile.tel_number,
+            tel_code= profile.tel_code,
+            mobile_number= profile.mobile_number,
+            emergency_phone_number= profile.emergency_phone_number,
+            email= profile.email
+        ),
+        address=Address(
+            province= profile.province,
+            city= profile.city,
+            address= profile.address,
+            postal_code= profile.postal_code,
+            latitude= profile.latitude,
+            longitude= profile.longitude,
+            unit= profile.unit,
+            floor= profile.floor,
+            plaque= profile.plaque
+        ),
         create_date=profile.create_date,
         update_date=profile.update_date,
         is_deleted=profile.is_deleted,
