@@ -3,6 +3,7 @@ from typing import Optional
 from uuid import UUID
 from datetime import datetime
 from ..models.service import Service
+from .base import BaseResponseModel
 
 class InstallationAddress(BaseModel):
     province: Optional[str] = None
@@ -50,14 +51,7 @@ class ServiceUpdate(BaseModel):
     shahkar_ref_id: Optional[str] = None
     dates: ServiceDates
 
-class ServiceResponse(ServiceBase):
-    id: UUID
-    create_date: str
-    update_date: str
-    create_user: str
-    update_user: str
-    is_deleted: bool
-
+class ServiceResponse(ServiceBase, BaseResponseModel):
     class Config:
         from_attributes = True
         

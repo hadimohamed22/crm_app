@@ -1,0 +1,47 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Create RUN Terminal",
+      "command": "python -m src.run_dev",
+      "type": "shell",
+      "presentation": {
+        "panel": "dedicated",
+        "reveal": "always",
+        "group": "devTerminals"
+      }
+    },
+    {
+      "label": "Create GIT Terminal",
+      "command": "git status",
+      "type": "shell",
+      "presentation": {
+        "panel": "dedicated",
+        "reveal": "always",
+        "group": "devTerminals"
+      }
+    },
+    {
+      "label": "Create TEST Terminal",
+      "command": "your-test-command-here",
+      "type": "shell",
+      "presentation": {
+        "panel": "dedicated",
+        "reveal": "always",
+        "group": "devTerminals"
+      }
+    },
+    {
+      "label": "Create All Dev Terminals",
+      "dependsOn": [
+        "Create RUN Terminal",
+        "Create GIT Terminal",
+        "Create TEST Terminal"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}

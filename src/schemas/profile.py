@@ -3,6 +3,7 @@ from datetime import date, datetime
 from uuid import UUID
 from typing import Optional
 from ..models.profile import Profile
+from .base import BaseResponseModel
 
 class PersonalInfo(BaseModel):
     first_name: str
@@ -44,14 +45,7 @@ class ProfileUpdate(BaseModel):
     contact_info: Optional[ContactInfo] = None
     address: Optional[Address] = None
     
-class ProfileResponse(ProfileCreate):
-    id: UUID
-    create_date: datetime
-    update_date: datetime
-    is_deleted: bool
-    create_user: str
-    update_user: str
-
+class ProfileResponse(ProfileCreate, BaseResponseModel):
     class Config:
         from_attributes = True
         

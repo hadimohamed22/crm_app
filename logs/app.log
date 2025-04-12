@@ -2497,3 +2497,606 @@ INFO:     2025-04-07 17:21:37,997 [app_logger] Shutting down CRM App
 INFO:     2025-04-07 17:21:43,250 [app_logger] Database tables created successfully.
 INFO:     2025-04-07 17:21:43,287 [app_logger] Starting CRM App
 INFO:     2025-04-07 17:21:53,720 [app_logger] Shutting down CRM App
+INFO:     2025-04-07 17:22:00,689 [app_logger] Database tables created successfully.
+INFO:     2025-04-07 17:22:00,721 [app_logger] Starting CRM App
+INFO:     2025-04-07 17:23:00,736 [app_logger] Running sample task...
+INFO:     2025-04-07 17:24:00,735 [app_logger] Running sample task...
+INFO:     2025-04-07 17:25:00,735 [app_logger] Running sample task...
+INFO:     2025-04-07 17:26:00,735 [app_logger] Running sample task...
+INFO:     2025-04-07 17:27:00,735 [app_logger] Running sample task...
+INFO:     2025-04-07 17:28:00,736 [app_logger] Running sample task...
+INFO:     2025-04-07 17:29:00,740 [app_logger] Running sample task...
+INFO:     2025-04-07 17:30:00,737 [app_logger] Running sample task...
+INFO:     2025-04-07 17:31:00,738 [app_logger] Running sample task...
+INFO:     2025-04-07 17:32:00,736 [app_logger] Running sample task...
+INFO:     2025-04-07 17:32:22,521 [app_logger] Shutting down CRM App
+INFO:     2025-04-07 17:32:30,199 [app_logger] Database tables created successfully.
+INFO:     2025-04-07 17:32:30,235 [app_logger] Starting CRM App
+INFO:     2025-04-07 17:32:39,111 [app_logger] Shutting down CRM App
+INFO:     2025-04-07 17:32:46,398 [app_logger] Database tables created successfully.
+INFO:     2025-04-07 17:32:46,433 [app_logger] Starting CRM App
+INFO:     2025-04-07 17:32:56,428 [app_logger] Shutting down CRM App
+INFO:     2025-04-07 17:33:02,219 [app_logger] Database tables created successfully.
+INFO:     2025-04-07 17:33:02,256 [app_logger] Starting CRM App
+INFO:     2025-04-07 17:33:14,700 [app_logger] Shutting down CRM App
+INFO:     2025-04-07 17:33:22,652 [app_logger] Database tables created successfully.
+INFO:     2025-04-07 17:33:22,690 [app_logger] Starting CRM App
+INFO:     2025-04-07 17:33:46,117 [app_logger] Shutting down CRM App
+INFO:     2025-04-07 17:33:52,912 [app_logger] Database tables created successfully.
+INFO:     2025-04-07 17:33:52,946 [app_logger] Starting CRM App
+INFO:     2025-04-07 17:34:02,516 [app_logger] Shutting down CRM App
+INFO:     2025-04-07 17:34:44,872 [app_logger] Database tables created successfully.
+INFO:     2025-04-07 17:34:44,904 [app_logger] Starting CRM App
+INFO:     2025-04-07 17:34:52,505 [app_logger] Shutting down CRM App
+INFO:     2025-04-07 17:35:34,462 [app_logger] Database tables created successfully.
+INFO:     2025-04-07 17:35:34,504 [app_logger] Starting CRM App
+INFO:     2025-04-07 17:36:14,393 [app_logger] Shutting down CRM App
+INFO:     2025-04-07 17:36:22,791 [app_logger] Database tables created successfully.
+INFO:     2025-04-07 17:36:22,824 [app_logger] Starting CRM App
+INFO:     2025-04-07 17:36:33,147 [app_logger] Shutting down CRM App
+INFO:     2025-04-07 17:36:40,763 [app_logger] Database tables created successfully.
+INFO:     2025-04-07 17:36:40,802 [app_logger] Starting CRM App
+INFO:     2025-04-07 17:37:20,243 [app_logger] Shutting down CRM App
+INFO:     2025-04-07 17:37:27,372 [app_logger] Database tables created successfully.
+INFO:     2025-04-07 17:37:27,407 [app_logger] Starting CRM App
+INFO:     2025-04-07 17:37:37,660 [app_logger] Shutting down CRM App
+INFO:     2025-04-07 17:38:02,176 [app_logger] Database tables created successfully.
+INFO:     2025-04-07 17:38:02,218 [app_logger] Starting CRM App
+INFO:     2025-04-07 17:38:11,263 [app_logger] Shutting down CRM App
+INFO:     2025-04-07 17:38:18,924 [app_logger] Database tables created successfully.
+INFO:     2025-04-07 17:38:18,977 [app_logger] Starting CRM App
+INFO:     2025-04-07 17:38:29,357 [app_logger] Shutting down CRM App
+INFO:     2025-04-07 17:38:53,384 [app_logger] Database tables created successfully.
+INFO:     2025-04-07 17:38:53,424 [app_logger] Starting CRM App
+INFO:     2025-04-07 17:39:01,387 [app_logger] Shutting down CRM App
+INFO:     2025-04-07 17:39:09,086 [app_logger] Database tables created successfully.
+INFO:     2025-04-07 17:39:09,120 [app_logger] Starting CRM App
+INFO:     2025-04-07 17:40:09,136 [app_logger] Running sample task...
+INFO:     2025-04-07 17:40:09,813 [app_logger] Shutting down CRM App
+INFO:     2025-04-07 17:40:17,273 [app_logger] Database tables created successfully.
+INFO:     2025-04-07 17:40:17,309 [app_logger] Starting CRM App
+INFO:     2025-04-07 17:40:40,847 [app_logger] Shutting down CRM App
+INFO:     2025-04-07 17:41:05,546 [app_logger] Database tables created successfully.
+INFO:     2025-04-07 17:41:05,583 [app_logger] Starting CRM App
+INFO:     2025-04-07 17:41:29,651 [app_logger] Shutting down CRM App
+INFO:     2025-04-07 17:41:55,043 [app_logger] Database tables created successfully.
+INFO:     2025-04-07 17:41:55,081 [app_logger] Starting CRM App
+INFO:     2025-04-07 17:42:55,098 [app_logger] Running sample task...
+INFO:     2025-04-07 17:43:55,098 [app_logger] Running sample task...
+INFO:     2025-04-07 17:44:55,102 [app_logger] Running sample task...
+INFO:     2025-04-07 17:45:55,106 [app_logger] Running sample task...
+INFO:     2025-04-07 17:46:55,100 [app_logger] Running sample task...
+INFO:     2025-04-07 17:47:55,100 [app_logger] Running sample task...
+INFO:     2025-04-07 17:48:55,103 [app_logger] Running sample task...
+INFO:     2025-04-07 17:49:55,104 [app_logger] Running sample task...
+INFO:     2025-04-07 17:50:55,099 [app_logger] Running sample task...
+INFO:     2025-04-07 17:51:55,104 [app_logger] Running sample task...
+INFO:     2025-04-07 17:52:55,099 [app_logger] Running sample task...
+INFO:     2025-04-07 17:53:55,101 [app_logger] Running sample task...
+INFO:     2025-04-08 11:03:55,101 [app_logger] Running sample task...
+INFO:     2025-04-08 11:04:55,099 [app_logger] Running sample task...
+INFO:     2025-04-08 11:05:55,101 [app_logger] Running sample task...
+INFO:     2025-04-08 11:06:55,099 [app_logger] Running sample task...
+INFO:     2025-04-08 11:07:55,099 [app_logger] Running sample task...
+INFO:     2025-04-08 11:08:55,098 [app_logger] Running sample task...
+INFO:     2025-04-08 11:09:55,100 [app_logger] Running sample task...
+INFO:     2025-04-08 11:10:55,099 [app_logger] Running sample task...
+INFO:     2025-04-08 11:11:55,100 [app_logger] Running sample task...
+INFO:     2025-04-08 11:12:55,102 [app_logger] Running sample task...
+INFO:     2025-04-08 11:13:55,100 [app_logger] Running sample task...
+INFO:     2025-04-08 11:14:55,103 [app_logger] Running sample task...
+INFO:     2025-04-08 11:15:55,099 [app_logger] Running sample task...
+INFO:     2025-04-08 11:16:55,099 [app_logger] Running sample task...
+INFO:     2025-04-08 11:17:55,100 [app_logger] Running sample task...
+INFO:     2025-04-08 11:18:55,098 [app_logger] Running sample task...
+INFO:     2025-04-08 11:19:55,100 [app_logger] Running sample task...
+INFO:     2025-04-08 11:20:55,102 [app_logger] Running sample task...
+INFO:     2025-04-08 11:21:55,100 [app_logger] Running sample task...
+INFO:     2025-04-08 11:22:55,099 [app_logger] Running sample task...
+INFO:     2025-04-08 11:23:55,102 [app_logger] Running sample task...
+INFO:     2025-04-08 11:24:55,099 [app_logger] Running sample task...
+INFO:     2025-04-08 11:25:55,100 [app_logger] Running sample task...
+INFO:     2025-04-08 11:26:55,101 [app_logger] Running sample task...
+INFO:     2025-04-08 11:27:55,101 [app_logger] Running sample task...
+INFO:     2025-04-08 11:28:55,099 [app_logger] Running sample task...
+INFO:     2025-04-08 11:29:55,100 [app_logger] Running sample task...
+INFO:     2025-04-08 11:30:55,098 [app_logger] Running sample task...
+INFO:     2025-04-08 11:31:55,099 [app_logger] Running sample task...
+INFO:     2025-04-08 11:32:55,099 [app_logger] Running sample task...
+INFO:     2025-04-08 11:33:55,099 [app_logger] Running sample task...
+INFO:     2025-04-08 11:34:55,102 [app_logger] Running sample task...
+INFO:     2025-04-08 11:35:55,102 [app_logger] Running sample task...
+INFO:     2025-04-08 11:36:55,100 [app_logger] Running sample task...
+INFO:     2025-04-08 11:37:55,099 [app_logger] Running sample task...
+INFO:     2025-04-08 11:38:55,099 [app_logger] Running sample task...
+INFO:     2025-04-08 11:39:55,100 [app_logger] Running sample task...
+INFO:     2025-04-08 11:40:55,102 [app_logger] Running sample task...
+INFO:     2025-04-08 11:41:55,099 [app_logger] Running sample task...
+INFO:     2025-04-08 11:42:55,098 [app_logger] Running sample task...
+INFO:     2025-04-08 11:43:55,099 [app_logger] Running sample task...
+INFO:     2025-04-08 11:44:55,100 [app_logger] Running sample task...
+INFO:     2025-04-08 11:45:55,100 [app_logger] Running sample task...
+INFO:     2025-04-08 11:46:55,099 [app_logger] Running sample task...
+INFO:     2025-04-08 11:47:55,102 [app_logger] Running sample task...
+INFO:     2025-04-08 11:48:55,099 [app_logger] Running sample task...
+INFO:     2025-04-08 11:49:55,100 [app_logger] Running sample task...
+INFO:     2025-04-08 11:50:55,098 [app_logger] Running sample task...
+INFO:     2025-04-08 11:51:55,099 [app_logger] Running sample task...
+INFO:     2025-04-08 13:27:26,745 [app_logger] Shutting down CRM App
+INFO:     2025-04-08 13:27:45,214 [app_logger] Database tables created successfully.
+INFO:     2025-04-08 13:27:45,272 [app_logger] Starting CRM App
+INFO:     2025-04-08 13:27:45,301 [app_logger] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:     2025-04-08 13:27:45,319 [app_logger] Added job "%s" to job store "%s" sample_task default
+INFO:     2025-04-08 13:27:45,319 [app_logger] Scheduler started
+DEBUG:    2025-04-08 13:27:45,320 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:27:45,320 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:28:45.301432+03:30 59.981073
+DEBUG:    2025-04-08 13:28:41,244 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:28:41,244 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:28:45.301432+03:30 4.056643
+DEBUG:    2025-04-08 13:28:43,682 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:28:43,682 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:28:45.301432+03:30 1.61857
+DEBUG:    2025-04-08 13:28:45,303 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:28:45,304 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:29:45.301432+03:30 59.997431
+INFO:     2025-04-08 13:28:45,304 [app_logger] Running sample task...
+DEBUG:    2025-04-08 13:29:41,787 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:29:41,787 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:29:45.301432+03:30 3.513872
+DEBUG:    2025-04-08 13:29:45,302 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:29:45,302 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:30:45.301432+03:30 59.998674
+INFO:     2025-04-08 13:29:45,303 [app_logger] Running sample task...
+DEBUG:    2025-04-08 13:30:41,591 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:30:41,592 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:30:45.301432+03:30 3.709211
+DEBUG:    2025-04-08 13:30:45,301 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:30:45,302 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:31:45.301432+03:30 59.999157
+INFO:     2025-04-08 13:30:45,302 [app_logger] Running sample task...
+INFO:     2025-04-08 13:30:48,199 [app_logger] Shutting down CRM App
+INFO:     2025-04-08 13:31:12,726 [app_logger] Database tables created successfully.
+INFO:     2025-04-08 13:31:12,794 [app_logger] Starting CRM App
+INFO:     2025-04-08 13:31:12,963 [app_logger] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:     2025-04-08 13:31:12,995 [app_logger] Added job "%s" to job store "%s" sample_task default
+INFO:     2025-04-08 13:31:13,017 [app_logger] Scheduler started
+DEBUG:    2025-04-08 13:31:13,039 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:31:13,047 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:32:12.963164+03:30 59.915654
+DEBUG:    2025-04-08 13:32:09,286 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:32:09,306 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:32:12.963164+03:30 3.656943
+DEBUG:    2025-04-08 13:32:12,984 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:32:13,000 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:33:12.963164+03:30 59.962782
+INFO:     2025-04-08 13:32:13,015 [app_logger] Running sample task...
+INFO:     2025-04-08 13:32:52,949 [app_logger] Shutting down CRM App
+INFO:     2025-04-08 13:32:57,860 [app_logger] Database tables created successfully.
+INFO:     2025-04-08 13:32:57,888 [app_logger] Starting CRM App
+INFO:     2025-04-08 13:32:57,896 [app_logger] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:     2025-04-08 13:32:57,902 [app_logger] Added job "%s" to job store "%s" sample_task default
+INFO:     2025-04-08 13:32:57,903 [app_logger] Scheduler started
+DEBUG:    2025-04-08 13:32:57,903 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:32:57,904 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:33:57.896659+03:30 59.992682
+INFO:     2025-04-08 13:33:11,697 [app_logger] Shutting down CRM App
+INFO:     2025-04-08 13:33:16,938 [app_logger] Database tables created successfully.
+INFO:     2025-04-08 13:33:16,973 [app_logger] Starting CRM App
+INFO:     2025-04-08 13:33:16,985 [app_logger] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:     2025-04-08 13:33:16,992 [app_logger] Added job "%s" to job store "%s" sample_task default
+INFO:     2025-04-08 13:33:16,992 [app_logger] Scheduler started
+DEBUG:    2025-04-08 13:33:16,993 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:33:16,993 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:34:16.984911+03:30 59.991314
+INFO:     2025-04-08 13:33:22,800 [app_logger] Shutting down CRM App
+INFO:     2025-04-08 13:33:25,871 [app_logger] Database tables created successfully.
+INFO:     2025-04-08 13:33:25,905 [app_logger] Starting CRM App
+INFO:     2025-04-08 13:33:25,917 [app_logger] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:     2025-04-08 13:33:25,928 [app_logger] Added job "%s" to job store "%s" sample_task default
+INFO:     2025-04-08 13:33:25,928 [app_logger] Scheduler started
+DEBUG:    2025-04-08 13:33:25,929 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:33:25,929 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:34:25.917734+03:30 59.98819
+INFO:     2025-04-08 13:34:08,071 [app_logger] Shutting down CRM App
+INFO:     2025-04-08 13:34:13,142 [app_logger] Database tables created successfully.
+INFO:     2025-04-08 13:34:13,171 [app_logger] Starting CRM App
+INFO:     2025-04-08 13:34:13,181 [app_logger] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:     2025-04-08 13:34:13,187 [app_logger] Added job "%s" to job store "%s" sample_task default
+INFO:     2025-04-08 13:34:13,188 [app_logger] Scheduler started
+DEBUG:    2025-04-08 13:34:13,188 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:34:13,189 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:35:13.181443+03:30 59.992373
+INFO:     2025-04-08 13:34:19,108 [app_logger] Shutting down CRM App
+INFO:     2025-04-08 13:34:22,010 [app_logger] Database tables created successfully.
+INFO:     2025-04-08 13:34:22,046 [app_logger] Starting CRM App
+INFO:     2025-04-08 13:34:22,056 [app_logger] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:     2025-04-08 13:34:22,065 [app_logger] Added job "%s" to job store "%s" sample_task default
+INFO:     2025-04-08 13:34:22,066 [app_logger] Scheduler started
+DEBUG:    2025-04-08 13:34:22,066 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:34:22,066 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:35:22.056079+03:30 59.989231
+INFO:     2025-04-08 13:34:27,721 [app_logger] Shutting down CRM App
+INFO:     2025-04-08 13:34:42,845 [app_logger] Database tables created successfully.
+INFO:     2025-04-08 13:34:42,877 [app_logger] Starting CRM App
+INFO:     2025-04-08 13:34:42,886 [app_logger] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:     2025-04-08 13:34:42,893 [app_logger] Added job "%s" to job store "%s" sample_task default
+INFO:     2025-04-08 13:34:42,893 [app_logger] Scheduler started
+DEBUG:    2025-04-08 13:34:42,894 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:34:42,894 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:35:42.886435+03:30 59.991566
+INFO:     2025-04-08 13:35:07,277 [app_logger] Shutting down CRM App
+INFO:     2025-04-08 13:35:12,199 [app_logger] Database tables created successfully.
+INFO:     2025-04-08 13:35:12,279 [app_logger] Starting CRM App
+INFO:     2025-04-08 13:35:12,338 [app_logger] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:     2025-04-08 13:35:12,382 [app_logger] Added job "%s" to job store "%s" sample_task default
+INFO:     2025-04-08 13:35:12,416 [app_logger] Scheduler started
+DEBUG:    2025-04-08 13:35:12,444 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:35:12,460 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:36:12.338527+03:30 59.878207
+INFO:     2025-04-08 13:35:37,028 [app_logger] Shutting down CRM App
+INFO:     2025-04-08 13:35:41,995 [app_logger] Database tables created successfully.
+INFO:     2025-04-08 13:35:42,030 [app_logger] Starting CRM App
+INFO:     2025-04-08 13:35:42,039 [app_logger] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:     2025-04-08 13:35:42,047 [app_logger] Added job "%s" to job store "%s" sample_task default
+INFO:     2025-04-08 13:35:42,048 [app_logger] Scheduler started
+DEBUG:    2025-04-08 13:35:42,048 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:35:42,048 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:36:42.039677+03:30 59.990816
+INFO:     2025-04-08 13:35:45,925 [app_logger] Shutting down CRM App
+INFO:     2025-04-08 13:35:50,906 [app_logger] Database tables created successfully.
+INFO:     2025-04-08 13:35:50,944 [app_logger] Starting CRM App
+INFO:     2025-04-08 13:35:50,955 [app_logger] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:     2025-04-08 13:35:50,962 [app_logger] Added job "%s" to job store "%s" sample_task default
+INFO:     2025-04-08 13:35:50,962 [app_logger] Scheduler started
+DEBUG:    2025-04-08 13:35:50,963 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:35:50,963 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:36:50.955426+03:30 59.991592
+INFO:     2025-04-08 13:35:56,946 [app_logger] Shutting down CRM App
+INFO:     2025-04-08 13:36:40,793 [app_logger] Database tables created successfully.
+INFO:     2025-04-08 13:36:40,822 [app_logger] Starting CRM App
+INFO:     2025-04-08 13:36:40,832 [app_logger] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:     2025-04-08 13:36:40,839 [app_logger] Added job "%s" to job store "%s" sample_task default
+INFO:     2025-04-08 13:36:40,840 [app_logger] Scheduler started
+DEBUG:    2025-04-08 13:36:40,840 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:36:40,840 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:37:40.831960+03:30 59.991085
+DEBUG:    2025-04-08 13:37:36,370 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:37:36,371 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:37:40.831960+03:30 4.460581
+DEBUG:    2025-04-08 13:37:38,896 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:37:38,897 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:37:40.831960+03:30 1.934959
+DEBUG:    2025-04-08 13:37:40,834 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:37:40,835 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:38:40.831960+03:30 59.996495
+INFO:     2025-04-08 13:37:40,835 [app_logger] Running sample task...
+DEBUG:    2025-04-08 13:38:36,730 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:38:36,730 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:38:40.831960+03:30 4.101441
+DEBUG:    2025-04-08 13:38:40,834 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:38:40,834 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:39:40.831960+03:30 59.997409
+INFO:     2025-04-08 13:38:40,834 [app_logger] Running sample task...
+DEBUG:    2025-04-08 13:39:36,587 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:39:36,587 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:39:40.831960+03:30 4.2442
+DEBUG:    2025-04-08 13:39:40,837 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:39:40,838 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:40:40.831960+03:30 59.993815
+INFO:     2025-04-08 13:39:40,838 [app_logger] Running sample task...
+DEBUG:    2025-04-08 13:40:36,723 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:40:36,724 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:40:40.831960+03:30 4.107617
+DEBUG:    2025-04-08 13:40:40,837 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:40:40,838 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:41:40.831960+03:30 59.993349
+INFO:     2025-04-08 13:40:40,839 [app_logger] Running sample task...
+DEBUG:    2025-04-08 13:41:36,772 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:41:36,773 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:41:40.831960+03:30 4.058568
+DEBUG:    2025-04-08 13:41:40,838 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:41:40,838 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:42:40.831960+03:30 59.993258
+INFO:     2025-04-08 13:41:40,839 [app_logger] Running sample task...
+DEBUG:    2025-04-08 13:42:37,115 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:42:37,116 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:42:40.831960+03:30 3.715776
+DEBUG:    2025-04-08 13:42:40,835 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:42:40,835 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:43:40.831960+03:30 59.996318
+INFO:     2025-04-08 13:42:40,836 [app_logger] Running sample task...
+DEBUG:    2025-04-08 13:43:38,496 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:43:38,497 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:43:40.831960+03:30 2.334922
+DEBUG:    2025-04-08 13:43:40,832 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:43:40,833 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:44:40.831960+03:30 59.998893
+INFO:     2025-04-08 13:43:40,833 [app_logger] Running sample task...
+DEBUG:    2025-04-08 13:44:39,154 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:44:39,154 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:44:40.831960+03:30 1.677313
+DEBUG:    2025-04-08 13:44:40,836 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:44:40,837 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:45:40.831960+03:30 59.994578
+INFO:     2025-04-08 13:44:40,837 [app_logger] Running sample task...
+DEBUG:    2025-04-08 13:45:39,250 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:45:39,250 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:45:40.831960+03:30 1.581148
+DEBUG:    2025-04-08 13:45:40,832 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:45:40,832 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:46:40.831960+03:30 59.999257
+INFO:     2025-04-08 13:45:40,833 [app_logger] Running sample task...
+DEBUG:    2025-04-08 13:46:39,453 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:46:39,454 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:46:40.831960+03:30 1.377941
+DEBUG:    2025-04-08 13:46:40,182 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:46:40,182 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:46:40.831960+03:30 0.649093
+DEBUG:    2025-04-08 13:46:40,832 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:46:40,833 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:47:40.831960+03:30 59.998779
+INFO:     2025-04-08 13:46:40,833 [app_logger] Running sample task...
+DEBUG:    2025-04-08 13:47:39,487 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:47:39,488 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:47:40.831960+03:30 1.343853
+DEBUG:    2025-04-08 13:47:40,832 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:47:40,833 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:48:40.831960+03:30 59.998761
+INFO:     2025-04-08 13:47:40,833 [app_logger] Running sample task...
+DEBUG:    2025-04-08 13:48:39,392 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:48:39,392 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:48:40.831960+03:30 1.439543
+DEBUG:    2025-04-08 13:48:40,832 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:48:40,832 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:49:40.831960+03:30 59.999069
+INFO:     2025-04-08 13:48:40,833 [app_logger] Running sample task...
+DEBUG:    2025-04-08 13:49:39,614 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:49:39,614 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:49:40.831960+03:30 1.217222
+DEBUG:    2025-04-08 13:49:40,832 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:49:40,833 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:50:40.831960+03:30 59.998703
+INFO:     2025-04-08 13:49:40,833 [app_logger] Running sample task...
+DEBUG:    2025-04-08 13:50:39,740 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:50:39,741 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:50:40.831960+03:30 1.090876
+DEBUG:    2025-04-08 13:50:40,832 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:50:40,833 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:51:40.831960+03:30 59.998811
+INFO:     2025-04-08 13:50:40,833 [app_logger] Running sample task...
+DEBUG:    2025-04-08 13:51:40,270 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:51:40,270 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:51:40.831960+03:30 0.561496
+DEBUG:    2025-04-08 13:51:40,834 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:51:40,834 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:52:40.831960+03:30 59.997377
+INFO:     2025-04-08 13:51:40,835 [app_logger] Running sample task...
+DEBUG:    2025-04-08 13:52:40,310 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:52:40,311 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:52:40.831960+03:30 0.520802
+DEBUG:    2025-04-08 13:52:40,832 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:52:40,832 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:53:40.831960+03:30 59.999214
+INFO:     2025-04-08 13:52:40,833 [app_logger] Running sample task...
+DEBUG:    2025-04-08 13:53:40,295 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:53:40,295 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:53:40.831960+03:30 0.536092
+DEBUG:    2025-04-08 13:53:40,833 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:53:40,833 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:54:40.831960+03:30 59.998457
+INFO:     2025-04-08 13:53:40,833 [app_logger] Running sample task...
+DEBUG:    2025-04-08 13:54:40,305 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:54:40,306 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:54:40.831960+03:30 0.525921
+DEBUG:    2025-04-08 13:54:40,832 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:54:40,833 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:55:40.831960+03:30 59.998964
+INFO:     2025-04-08 13:54:40,833 [app_logger] Running sample task...
+DEBUG:    2025-04-08 13:55:40,473 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:55:40,474 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:55:40.831960+03:30 0.357622
+DEBUG:    2025-04-08 13:55:40,833 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:55:40,834 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:56:40.831960+03:30 59.997488
+INFO:     2025-04-08 13:55:40,834 [app_logger] Running sample task...
+DEBUG:    2025-04-08 13:56:40,541 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:56:40,542 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:56:40.831960+03:30 0.289883
+DEBUG:    2025-04-08 13:56:40,833 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:56:40,833 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:57:40.831960+03:30 59.998213
+INFO:     2025-04-08 13:56:40,834 [app_logger] Running sample task...
+DEBUG:    2025-04-08 13:57:40,586 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:57:40,586 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:57:40.831960+03:30 0.245475
+DEBUG:    2025-04-08 13:57:40,831 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:57:40,832 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:58:40.831960+03:30 59.999733
+INFO:     2025-04-08 13:57:40,832 [app_logger] Running sample task...
+DEBUG:    2025-04-08 13:58:40,682 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:58:40,682 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:58:40.831960+03:30 0.149043
+DEBUG:    2025-04-08 13:58:40,833 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:58:40,833 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:59:40.831960+03:30 59.998519
+INFO:     2025-04-08 13:58:40,833 [app_logger] Running sample task...
+DEBUG:    2025-04-08 13:59:40,694 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:59:40,695 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 13:59:40.831960+03:30 0.136899
+DEBUG:    2025-04-08 13:59:40,832 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 13:59:40,833 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 14:00:40.831960+03:30 59.998559
+INFO:     2025-04-08 13:59:40,833 [app_logger] Running sample task...
+DEBUG:    2025-04-08 14:00:40,703 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 14:00:40,704 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 14:00:40.831960+03:30 0.12779
+DEBUG:    2025-04-08 14:00:40,834 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 14:00:40,836 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 14:01:40.831960+03:30 59.99525
+INFO:     2025-04-08 14:00:40,838 [app_logger] Running sample task...
+DEBUG:    2025-04-08 14:01:43,140 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-08 14:01:43,167 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-08 14:02:40.831960+03:30 57.664221
+DEBUG:    2025-04-09 10:46:07,957 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-09 10:46:08,137 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-09 10:46:40.831960+03:30 32.694793
+DEBUG:    2025-04-09 10:41:41,424 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-09 10:41:41,424 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-09 10:46:40.831960+03:30 299.407506
+DEBUG:    2025-04-09 10:46:33,844 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-09 10:46:33,845 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-09 10:46:40.831960+03:30 6.986604
+DEBUG:    2025-04-09 10:46:40,834 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-09 10:46:40,834 [app_logger] Next wakeup is due at %s (in %f seconds) 2025-04-09 10:47:40.831960+03:30 59.997221
+INFO:     2025-04-09 10:46:40,835 [app_logger] Running sample task...
+INFO:     2025-04-09 10:47:00,414 [app_logger] Shutting down CRM App
+INFO:     2025-04-09 16:07:36,742 [app_logger] Database tables created successfully. ()
+INFO:     2025-04-09 16:07:36,778 [app_logger] Starting CRM App ()
+INFO:     2025-04-09 16:07:36,804 [app_logger] Adding job tentatively -- it will be properly scheduled when the scheduler starts ()
+INFO:     2025-04-09 16:07:36,830 [app_logger] Added job "%s" to job store "%s" ('sample_task', 'default')
+INFO:     2025-04-09 16:07:36,831 [app_logger] Scheduler started ()
+DEBUG:    2025-04-09 16:07:36,831 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:07:36,832 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 8, 36, 803960, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.971525)
+INFO:     2025-04-09 16:07:49,525 [app_logger] Root endpoint accessed ()
+DEBUG:    2025-04-09 16:08:36,643 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:08:36,644 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 8, 36, 803960, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.159757)
+DEBUG:    2025-04-09 16:08:36,805 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:08:36,806 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 9, 36, 803960, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.997625)
+INFO:     2025-04-09 16:08:36,807 [app_logger] Running sample task... ()
+INFO:     2025-04-09 16:09:35,228 [app_logger] Shutting down CRM App ()
+INFO:     2025-04-09 16:09:41,639 [app_logger] Database tables created successfully. ()
+INFO:     2025-04-09 16:09:41,684 [app_logger] Starting CRM App ()
+INFO:     2025-04-09 16:09:41,699 [app_logger] Adding job tentatively -- it will be properly scheduled when the scheduler starts ()
+INFO:     2025-04-09 16:09:41,709 [app_logger] Added job "%s" to job store "%s" ('sample_task', 'default')
+INFO:     2025-04-09 16:09:41,710 [app_logger] Scheduler started ()
+DEBUG:    2025-04-09 16:09:41,710 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:09:41,711 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 10, 41, 698927, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.987422)
+INFO:     2025-04-09 16:09:52,273 [app_logger] Shutting down CRM App ()
+INFO:     2025-04-09 16:09:59,067 [app_logger] Database tables created successfully. ()
+INFO:     2025-04-09 16:09:59,102 [app_logger] Starting CRM App ()
+INFO:     2025-04-09 16:09:59,115 [app_logger] Adding job tentatively -- it will be properly scheduled when the scheduler starts ()
+INFO:     2025-04-09 16:09:59,126 [app_logger] Added job "%s" to job store "%s" ('sample_task', 'default')
+INFO:     2025-04-09 16:09:59,126 [app_logger] Scheduler started ()
+DEBUG:    2025-04-09 16:09:59,127 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:09:59,127 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 10, 59, 115052, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.987256)
+DEBUG:    2025-04-09 16:10:58,804 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:10:58,805 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 10, 59, 115052, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.309731)
+DEBUG:    2025-04-09 16:10:59,115 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:10:59,116 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 11, 59, 115052, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.998675)
+INFO:     2025-04-09 16:10:59,116 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:11:58,794 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:11:58,795 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 11, 59, 115052, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.31991)
+DEBUG:    2025-04-09 16:11:59,116 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:11:59,117 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 12, 59, 115052, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.997132)
+INFO:     2025-04-09 16:11:59,119 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:12:58,853 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:12:58,854 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 12, 59, 115052, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.260688)
+DEBUG:    2025-04-09 16:12:59,116 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:12:59,117 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 13, 59, 115052, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.997937)
+INFO:     2025-04-09 16:12:59,117 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:13:58,786 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:13:58,787 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 13, 59, 115052, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.328001)
+DEBUG:    2025-04-09 16:13:59,116 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:13:59,116 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 14, 59, 115052, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.998374)
+INFO:     2025-04-09 16:13:59,117 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:14:58,796 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:14:58,797 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 14, 59, 115052, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.317883)
+DEBUG:    2025-04-09 16:14:59,115 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:14:59,116 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 15, 59, 115052, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.998814)
+INFO:     2025-04-09 16:14:59,116 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:15:58,858 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:15:58,860 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 15, 59, 115052, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.254964)
+DEBUG:    2025-04-09 16:15:59,117 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:15:59,118 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 16, 59, 115052, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.996587)
+INFO:     2025-04-09 16:15:59,119 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:16:58,790 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:16:58,791 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 16, 59, 115052, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.323954)
+DEBUG:    2025-04-09 16:16:59,115 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:16:59,116 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 17, 59, 115052, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.998114)
+INFO:     2025-04-09 16:16:59,118 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:17:58,823 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:17:58,823 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 17, 59, 115052, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.291143)
+DEBUG:    2025-04-09 16:17:59,115 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:17:59,116 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 18, 59, 115052, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.998902)
+INFO:     2025-04-09 16:17:59,116 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:18:58,823 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:18:58,823 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 18, 59, 115052, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.291309)
+DEBUG:    2025-04-09 16:18:59,115 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:18:59,116 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 19, 59, 115052, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.999075)
+INFO:     2025-04-09 16:18:59,117 [app_logger] Running sample task... ()
+INFO:     2025-04-09 16:19:25,760 [app_logger] Shutting down CRM App ()
+INFO:     2025-04-09 16:19:48,606 [app_logger] Database tables created successfully. ()
+INFO:     2025-04-09 16:19:48,643 [app_logger] Starting CRM App ()
+INFO:     2025-04-09 16:19:48,656 [app_logger] Adding job tentatively -- it will be properly scheduled when the scheduler starts ()
+INFO:     2025-04-09 16:19:48,667 [app_logger] Added job "%s" to job store "%s" ('sample_task', 'default')
+INFO:     2025-04-09 16:19:48,667 [app_logger] Scheduler started ()
+DEBUG:    2025-04-09 16:19:48,668 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:19:48,668 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 20, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.988287)
+DEBUG:    2025-04-09 16:20:48,386 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:20:48,387 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 20, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.269669)
+DEBUG:    2025-04-09 16:20:48,657 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:20:48,658 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 21, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.998718)
+INFO:     2025-04-09 16:20:48,658 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:21:48,374 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:21:48,375 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 21, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.281668)
+DEBUG:    2025-04-09 16:21:48,657 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:21:48,658 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 22, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.998722)
+INFO:     2025-04-09 16:21:48,658 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:22:48,405 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:22:48,405 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 22, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.251165)
+DEBUG:    2025-04-09 16:22:48,658 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:22:48,658 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 23, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.998188)
+INFO:     2025-04-09 16:22:48,659 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:23:48,375 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:23:48,376 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 23, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.280572)
+DEBUG:    2025-04-09 16:23:48,658 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:23:48,658 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 24, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.997812)
+INFO:     2025-04-09 16:23:48,659 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:24:48,354 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:24:48,355 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 24, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.301638)
+DEBUG:    2025-04-09 16:24:48,658 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:24:48,659 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 25, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.997536)
+INFO:     2025-04-09 16:24:48,659 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:25:48,357 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:25:48,358 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 25, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.298412)
+DEBUG:    2025-04-09 16:25:48,657 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:25:48,658 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 26, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.998506)
+INFO:     2025-04-09 16:25:48,658 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:26:48,356 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:26:48,356 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 26, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.299865)
+DEBUG:    2025-04-09 16:26:48,657 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:26:48,658 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 27, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.998186)
+INFO:     2025-04-09 16:26:48,659 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:27:48,415 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:27:48,416 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 27, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.240663)
+DEBUG:    2025-04-09 16:27:48,657 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:27:48,658 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 28, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.998647)
+INFO:     2025-04-09 16:27:48,658 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:28:48,364 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:28:48,365 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 28, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.291737)
+DEBUG:    2025-04-09 16:28:48,658 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:28:48,658 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 29, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.997889)
+INFO:     2025-04-09 16:28:48,659 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:29:48,344 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:29:48,344 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 29, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.311903)
+DEBUG:    2025-04-09 16:29:48,658 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:29:48,659 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 30, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.99724)
+INFO:     2025-04-09 16:29:48,660 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:30:48,119 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:30:48,120 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 30, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.536407)
+DEBUG:    2025-04-09 16:30:48,658 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:30:48,658 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 31, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.998091)
+INFO:     2025-04-09 16:30:48,659 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:31:48,382 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:31:48,383 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 31, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.273179)
+DEBUG:    2025-04-09 16:31:48,657 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:31:48,657 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 32, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.999099)
+INFO:     2025-04-09 16:31:48,658 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:32:48,416 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:32:48,417 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 32, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.239467)
+DEBUG:    2025-04-09 16:32:48,658 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:32:48,659 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 33, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.997448)
+INFO:     2025-04-09 16:32:48,660 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:33:48,317 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:33:48,317 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 33, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.338998)
+DEBUG:    2025-04-09 16:33:48,658 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:33:48,658 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 34, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.997986)
+INFO:     2025-04-09 16:33:48,659 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:34:48,085 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:34:48,085 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 34, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.571227)
+DEBUG:    2025-04-09 16:34:48,656 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:34:48,657 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 35, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.999554)
+INFO:     2025-04-09 16:34:48,657 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:35:48,387 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:35:48,388 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 35, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.268609)
+DEBUG:    2025-04-09 16:35:48,658 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:35:48,659 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 36, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.997537)
+INFO:     2025-04-09 16:35:48,659 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:36:48,458 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:36:48,458 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 36, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.197978)
+DEBUG:    2025-04-09 16:36:48,656 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:36:48,657 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 37, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.999404)
+INFO:     2025-04-09 16:36:48,657 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:37:47,880 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:37:47,881 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 37, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.775788)
+DEBUG:    2025-04-09 16:37:48,657 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:37:48,658 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 38, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.998624)
+INFO:     2025-04-09 16:37:48,658 [app_logger] Running sample task... ()
+DEBUG:    2025-04-09 16:38:48,543 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:38:48,544 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 38, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.112507)
+DEBUG:    2025-04-09 16:38:48,658 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:38:48,659 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 39, 48, 656767, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.997745)
+INFO:     2025-04-09 16:38:48,659 [app_logger] Running sample task... ()
+INFO:     2025-04-09 16:39:12,788 [app_logger] Shutting down CRM App ()
+INFO:     2025-04-09 16:39:19,438 [app_logger] Database tables created successfully. ()
+INFO:     2025-04-09 16:39:19,466 [app_logger] Starting CRM App ()
+INFO:     2025-04-09 16:39:19,477 [app_logger] Adding job tentatively -- it will be properly scheduled when the scheduler starts ()
+INFO:     2025-04-09 16:39:19,486 [app_logger] Added job "%s" to job store "%s" ('sample_task', 'default')
+INFO:     2025-04-09 16:39:19,487 [app_logger] Scheduler started ()
+DEBUG:    2025-04-09 16:39:19,487 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:39:19,487 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 40, 19, 477753, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 59.990074)
+DEBUG:    2025-04-09 16:40:19,201 [app_logger] Looking for jobs to run ()
+DEBUG:    2025-04-09 16:40:19,202 [app_logger] Next wakeup is due at %s (in %f seconds) (datetime.datetime(2025, 4, 9, 16, 40, 19, 477753, tzinfo=zoneinfo.ZoneInfo(key='Asia/Tehran')), 0.275454)
+INFO:     2025-04-09 16:40:19,284 [app_logger] Shutting down CRM App ()
+INFO:     2025-04-09 16:42:34,943 [app_logger] Database tables created successfully.
+INFO:     2025-04-09 16:42:34,976 [app_logger] Starting CRM App
+INFO:     2025-04-09 16:42:34,987 [app_logger] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:     2025-04-09 16:42:34,992 [app_logger] Added job "sample_task" to job store "default"
+INFO:     2025-04-09 16:42:34,993 [app_logger] Scheduler started
+DEBUG:    2025-04-09 16:42:34,993 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-09 16:42:34,993 [app_logger] Next wakeup is due at 2025-04-09 16:43:34.986998+03:30 (in 59.993125 seconds)
+INFO:     2025-04-09 16:42:42,932 [app_logger] Shutting down CRM App
+INFO:     2025-04-09 16:42:49,389 [app_logger] Database tables created successfully.
+INFO:     2025-04-09 16:42:49,423 [app_logger] Starting CRM App
+INFO:     2025-04-09 16:42:49,435 [app_logger] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:     2025-04-09 16:42:49,442 [app_logger] Added job "sample_task" to job store "default"
+INFO:     2025-04-09 16:42:49,442 [app_logger] Scheduler started
+DEBUG:    2025-04-09 16:42:49,443 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-09 16:42:49,443 [app_logger] Next wakeup is due at 2025-04-09 16:43:49.435001+03:30 (in 59.991490 seconds)
+INFO:     2025-04-09 16:43:46,489 [app_logger] Shutting down CRM App
+INFO:     2025-04-09 16:43:52,931 [app_logger] Database tables created successfully.
+INFO:     2025-04-09 16:43:52,968 [app_logger] Starting CRM App
+INFO:     2025-04-09 16:43:52,983 [app_logger] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:     2025-04-09 16:43:52,994 [app_logger] Added job "sample_task" to job store "default"
+INFO:     2025-04-09 16:43:52,994 [app_logger] Scheduler started
+DEBUG:    2025-04-09 16:43:52,994 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-09 16:43:52,995 [app_logger] Next wakeup is due at 2025-04-09 16:44:52.982957+03:30 (in 59.987797 seconds)
+DEBUG:    2025-04-09 16:44:52,688 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-09 16:44:52,688 [app_logger] Next wakeup is due at 2025-04-09 16:44:52.982957+03:30 (in 0.294305 seconds)
+DEBUG:    2025-04-09 16:44:52,983 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-09 16:44:52,984 [app_logger] Next wakeup is due at 2025-04-09 16:45:52.982957+03:30 (in 59.998956 seconds)
+INFO:     2025-04-09 16:44:52,984 [app_logger] Running sample task...
+INFO:     2025-04-12 10:50:19,274 [app_logger] Database tables created successfully.
+INFO:     2025-04-12 10:50:19,320 [app_logger] Starting CRM App
+INFO:     2025-04-12 10:50:19,354 [app_logger] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:     2025-04-12 10:50:19,383 [app_logger] Added job "sample_task" to job store "default"
+INFO:     2025-04-12 10:50:19,383 [app_logger] Scheduler started
+DEBUG:    2025-04-12 10:50:19,384 [app_logger] Looking for jobs to run
+DEBUG:    2025-04-12 10:50:19,385 [app_logger] Next wakeup is due at 2025-04-12 10:51:19.354085+03:30 (in 59.969027 seconds)
+INFO:     2025-04-12 10:50:29,805 [app_logger] Root endpoint accessed
